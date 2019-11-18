@@ -1,0 +1,10 @@
+2019-08-05T09:44:59+00:00 CRITICAL Uncaught Error: Call to undefined function give_get_premium_add_ons() in /home/mavenupc/public_html/blog/wp-content/plugins/give/includes/misc-functions.php:840
+Stack trace:
+#0 /home/mavenupc/public_html/blog/wp-content/plugins/give/includes/misc-functions.php(2361): give_get_plugins(Array)
+#1 /home/mavenupc/public_html/blog/wp-includes/class-wp-hook.php(286): give_refresh_licenses()
+#2 /home/mavenupc/public_html/blog/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/mavenupc/public_html/blog/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /home/mavenupc/public_html/blog/wp-cron.php(133): do_action_ref_array('give_monthly_sc...', Array)
+#5 {main}
+  thrown in /home/mavenupc/public_html/blog/wp-content/plugins/give/includes/misc-functions.php on line 840
+

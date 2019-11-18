@@ -1,0 +1,628 @@
+
+
+img{
+    max-width: 100%;
+}
+#header {
+    height: 75px;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    padding: 0px 0; 
+    position: fixed;
+    left: 0;
+    top: 42;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #ffffff;
+}
+
+
+/*--------------------------------------------------------------
+    #design-userexp-main
+--------------------------------------------------------------*/
+hr.heading-line {
+    border: 4px solid #f29e35;
+    width: 201px;
+}
+
+#app-developmentmu {
+    padding-top: 185px;
+    padding-bottom: 100px;
+}
+
+#app-developmentmu{
+    background-image: url(../img/web-application.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#app-developmentmu .muser-main-heading{
+    text-align:center;
+}
+
+#app-developmentmu .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#app-developmentmu a.download-btn {
+    border: 4px solid #ffffff;
+}
+
+#app-developmentmu .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 110px;
+
+}
+
+.cater-img.rob {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+/*--------------------------------------------------------------
+    #mu-userexpo-proces
+--------------------------------------------------------------*/
+
+
+#mu-userexpo-proces {
+    background-image: url(../img/web-app-development/app-development-banner.png);
+    padding-bottom: 3%;
+}
+
+
+#mu-userexpo-proces .design-proces {
+    text-align: center;
+    margin-top: -83px;
+}
+
+#mu-userexpo-proces .design-process-heading h2 {
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+#mu-userexpo-proces .design-process-heading {
+    text-align: center;
+} 
+
+
+#mu-userexpo-proces .desi-proce-para {
+    text-align: -webkit-center;
+    margin: 0 auto;
+    text-align: -moz-center;
+
+}
+
+#mu-userexpo-proces .firs-box-sect {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#mu-userexpo-proces .desi-proce-para p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    line-height: 27px;
+    width: 95%;
+     
+}
+span.orange-heading {
+    color: #f29e35;
+}
+#mu-userexpo-proces a.view-stop {
+    background: #FB7C47;
+    padding: 12px 30px;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: 1s;
+    border-radius: 7px;
+}
+
+/*--------------------------------------------------------------
+     responsive-design-section
+--------------------------------------------------------------*/
+.row.stop-sec {
+    padding-top: 56px;
+}
+.row.stop-sec2 {
+    padding-top: 50px;
+    margin-bottom: 60px;
+}
+.responsive-design {
+    background: #fff !important;
+    background-image: url(../img/web-app-development/responsive-design.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+/*--------------------------------------------------------------
+     stop-responsive-section-section
+--------------------------------------------------------------*/
+#stop-responsive-section .muser-main-heading h2{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 56px;
+    text-align: center;
+    
+    }
+    #stop-responsive-section {
+        background-image: url(../img/web-app-development/stop.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top center;
+    }
+    
+    #stop-responsive-section {
+        padding: 5% 0px 3% 0px;
+    }
+    
+    #stop-responsive-section .aboutmu-detail-para p {
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    
+    #stop-responsive-section .muser-main-heading h1 {
+        color: #fb7c47;
+        text-align: center;
+        font-size: 60px;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 80px;
+    
+    }
+    
+    
+    #stop-responsive-section .box {
+        padding: 0px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 10px;
+        margin: 0 10px 40px 10px;
+        text-align: center;
+    }
+    
+    
+    #stop-responsive-section h4.title a {
+        font-size: 25px;
+        font-weight: 900;
+        color: #ffffff;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        text-transform: uppercase;
+        transition: 1s;
+    }
+    
+    #stop-responsive-section h4.title a:hover {
+        color:#FB7C47;
+    }
+    
+    #stop-responsive-section h4.title{
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    
+    
+    #stop-responsive-section p.description {
+        color: #ffffff;
+    }
+    
+    #stop-responsive-section a.view-stop {
+        background: #FB7C47;
+        padding: 7px 20px;
+        color: #ffffff;
+        font-size: 17px;
+        line-height: 40px;
+        text-transform: uppercase;
+        font-weight: 700;
+         transition: 1s;
+    }
+    
+    #stop-responsive-section a.view-stop:hover {
+        background: #ffffff;
+        color:#25334E;
+    }
+    
+
+
+
+
+
+/*--------------------------------------------------------------
+     stop-solution-section-section
+--------------------------------------------------------------*/
+#stop-solution-section .muser-main-heading h2{
+color: #ffffff;
+font-size: 40px;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 56px;
+text-align: center;
+
+}
+#stop-solution-section {
+    background-image: url(../img/web-app-development/stop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#stop-solution-section {
+    padding: 5% 0px 3% 0px;
+}
+
+#stop-solution-section .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+#stop-solution-section .muser-main-heading h1 {
+    color: #fb7c47;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 80px;
+
+}
+
+
+#stop-solution-section .box {
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 0 10px 40px 10px;
+    text-align: center;
+}
+
+
+#stop-solution-section h4.title a {
+    font-size: 25px;
+    font-weight: 900;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    transition: 1s;
+}
+
+#stop-solution-section h4.title a:hover {
+    color:#FB7C47;
+}
+
+#stop-solution-section h4.title{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+#stop-solution-section p.description {
+    color: #ffffff;
+}
+
+#stop-solution-section a.view-stop {
+    background: #FB7C47;
+    padding: 7px 20px;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+     transition: 1s;
+}
+
+#stop-solution-section a.view-stop:hover {
+    background: #ffffff;
+    color:#25334E;
+}
+
+
+
+/*--------------------------------------------------------------
+    Mucollab-detail-section
+--------------------------------------------------------------*/
+
+
+.collab-section {
+    background-image: url(../img/User-Experience/about-collab-baner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#ui-ux-collab-section {
+    padding: 100px 0px 100px 0px;
+
+}
+
+#ui-ux-collab-section .digital-full-text {
+  text-align: center;
+}
+
+#about-collaba {
+    padding: 80px 0;
+}
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 150px;
+}
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 60px;
+    margin-top: -20px;
+}
+
+#ux-ui-subscribe-from {
+    background: #FB7C47;
+    padding: 5% 0% 5% 0%;
+} 
+
+
+
+/*--------------------------------------------------------------
+     business-talk-section
+--------------------------------------------------------------*/
+
+
+
+#business-talk-section {
+    padding: 5% 0% 5% 0%;
+}
+
+#business-talk-section {
+
+    background-image: url(../img/web-app-development/form-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+#business-talk-section  .aboutmu-detail-para p {
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#business-talk-section input.style-filed{
+    background: #25344c;
+    border-color: #25344c;
+    color: #ffffff!important;
+
+}
+
+
+#business-talk-section select.selec-opt {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+}
+
+#business-talk-section textarea#exampleFormControlTextarea6 {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+    height: 140px;
+    margin-top: -12px;
+}
+
+.talk-form-btn {
+text-align: center;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm {
+    background: #FB7C47;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border-color: #FB7C47;
+    font-weight: 700;
+    transition: 1s;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm:hover {
+
+    background: #ffffff;
+    color: #25344C;
+    border-color: #25344C;
+}
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width:1256px){
+
+.stop-btn.call-but a {
+    padding: 14px 41px !important;
+    font-size: 26px !important;
+}
+.stop-btn.call-but {
+    text-align: right;
+    top: -183px;
+    position: relative;
+    left: -57px;
+}
+}
+@media only screen and (min-width:767px){
+    .mbl-only{
+        display: none;
+    }
+
+
+}
+@media only screen and (max-width:1255px) and (min-width:768px){
+    .stop-btn.call-but {
+        text-align: right;
+        top: -80px;
+        position: relative;
+        left: -26px;
+    }
+    a.view-stop.det-stop-btn {
+        padding: 17px 17px !important;
+        font-size: 23px !important;
+    }
+}
+@media only screen and (max-width:768px){
+
+.des-only{
+    display: none;
+}}
+@media only screen and (min-width:300px) and (max-width: 767px) {
+    .stop-btn.call-but {
+        text-align: right;
+        top: -50px;
+        position: relative;
+    }
+    h2 {
+        font-size: 24px !important;
+        line-height: 25px !important;
+    }
+    
+    p {
+        font-size: 14px !important;
+        line-height: 20px !important;
+    }
+    
+    
+    
+    a.view-stop.det-stop-btn {
+        padding: 4px 8px !important;
+        font-size: 14px !important;
+    }
+    
+    h4.title a {
+        font-size: 18px !important;
+    }
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+#app-developmentmu .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 35px;
+
+}
+#app-developmentmu {
+    padding-top: 158px;
+    padding-bottom: 60px;
+}
+
+
+.design-proces img {
+    width: 200px;
+    margin-top: 33px;
+}
+
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 80px;
+}
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 50px;
+    margin-top: -20px;
+}
+
+#business-talk-section .talk-heading h2 {
+
+	    font-size: 40px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services, .btn-get-started {
+  font-size: 16px;
+  padding: 15px 34px;
+}
+
+#stop-solution-section .muser-main-heading h1 {
+font-size: 36px;
+line-height: 50px;
+
+}
+
+#stop-solution-section {
+    padding: 10% 0px 3% 0px;
+}
+
+#mu-userexpo-proces {
+    
+    padding-bottom: 12%;
+}
+
+
+}
+
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+
+
+
+
+#ui-ux-collab-section .digital-text h2 {
+      font-size: 120px;
+      line-height: 140px;
+}
+
+}
+
+@media only screen and (min-width:768px) and (max-width: 992px) {
+
+#app-developmentmu .muser-main-heading h1 {
+	font-size: 60px;
+}
+
+
+#ui-ux-collab-section .digital-text h2 {
+      font-size: 90px;
+      line-height: 120px;
+}
+
+}
+

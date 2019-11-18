@@ -1,0 +1,787 @@
+
+
+img{
+    max-width: 100%;
+}
+#header {
+    height: 75px;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    padding: 0px 0; 
+    position: fixed;
+    left: 0;
+    top: 42;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #ffffff;
+}
+
+a.view-stop.det-stop-btn {
+    background: #FB7C47;
+    padding: 12px 50px;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: 1s;
+    border-radius: 7px;
+}
+/*--------------------------------------------------------------
+    #design-userexp-main
+--------------------------------------------------------------*/
+hr.heading-line {
+    border: 4px solid #f29e35;
+    width: 201px;
+}
+h5.subheading {
+    color: #222222;
+    font-weight: 800;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+#wordpress {
+    padding-top: 185px;
+    padding-bottom: 100px;
+}
+.word-dev {
+    margin-bottom: 50px;
+}
+#wordpress{
+    background-image: url(../img/joomla/joomla-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#wordpress .muser-main-heading{
+    text-align:center;
+}
+
+#wordpress .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#wordpress a.download-btn {
+    border: 4px solid #ffffff;
+}
+
+#wordpress .muser-main-heading h1 {
+
+    color: #fb7c47;
+    font-size: 90px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 110px;
+
+}
+
+.cater-img.rob {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+/*--------------------------------------------------------------
+    #mu-userexpo-proces
+--------------------------------------------------------------*/
+
+
+#mu-userexpo-proces {
+    background-color: #f9f9f9;
+    padding-bottom: 3%;
+    box-shadow: 3px 4px 49px rgba(190, 190, 190, 0.18);
+}
+
+
+#mu-userexpo-proces .design-proces {
+    text-align: center;
+    margin-top: -83px;
+}
+
+#mu-userexpo-proces .design-process-heading h2 {
+    font-weight: 900;
+    color: #fb7c47;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+#mu-userexpo-proces .design-process-heading {
+    text-align: center;
+} 
+
+
+#mu-userexpo-proces .desi-proce-para {
+    text-align: -webkit-center;
+    margin: 0 auto;
+    text-align: -moz-center;
+
+}
+
+#mu-userexpo-proces .firs-box-sect {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#mu-userexpo-proces .desi-proce-para p {
+    color: #222222;
+    font-size: 18px;
+    text-align: center;
+    line-height: 27px;
+    width: 95%;
+     
+}
+span.orange-heading {
+    color: #f29e35;
+}
+
+
+
+
+/*--------------------------------------------------------------
+     responsive-design-section
+--------------------------------------------------------------*/
+.row.stop-sec {
+    padding-top: 56px;
+}
+.row.stop-sec2 {
+    padding-top: 50px;
+    margin-bottom: 60px;
+}
+.responsive-design {
+    background: #f5f5f5 !important;
+    
+}
+
+/*--------------------------------------------------------------
+     wordpress-video -section-section
+--------------------------------------------------------------*/
+
+.wordpress-list.list2 {
+    margin-bottom: 39px;
+}
+.wordpres-video iframe {
+    width: 72%;
+    height: 450px;
+    margin-bottom: 50px;
+}
+.vidro-intro {
+    background-color: #222222 !important;
+    padding-top: 53px;
+    padding-bottom: 57px !important;
+}
+h2.intro-heading {
+    font-size: 100px;
+    font-weight: 800;
+    color: #1a3d8c;
+    text-transform: uppercase;
+}
+span.dot img {
+    padding-right: 17px;
+    top: -2px;
+    position: relative;
+}
+h2.intro-sub {
+    font-size: 60px;
+    line-height: 64px;
+    margin-top: 27%;
+}
+img.intropics.word-icon {
+    margin-top: -109px !important;
+    margin: 0 auto;
+    display: block;
+    z-index: 2;
+    position: relative;
+}
+
+img.intropics.macscreen {
+    margin-top: 56px;
+}
+.wordpress-list p {
+    
+    margin-bottom: 3px;
+    color: #7d7d7d;
+    font-size: 23px;
+    font-weight: 700;
+}
+/*--------------------------------------------------------------
+     stop-responsive-section-section
+--------------------------------------------------------------*/
+#stop-responsive-section .muser-main-heading h2{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 56px;
+    text-align: center;
+    
+    }
+    #stop-responsive-section {
+        background-image: url(../img/web-app-development/stop.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top center;
+    }
+    
+    #stop-responsive-section {
+        padding: 5% 0px 3% 0px;
+    }
+    
+    #stop-responsive-section .aboutmu-detail-para p {
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    
+    #stop-responsive-section .muser-main-heading h1 {
+        color: #fb7c47;
+        text-align: center;
+        font-size: 60px;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 80px;
+    
+    }
+    
+    
+    #stop-responsive-section .box {
+        padding: 0px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 10px;
+        margin: 0 10px 40px 10px;
+        text-align: center;
+    }
+    
+    
+    #stop-responsive-section h4.title a {
+        font-size: 25px;
+        font-weight: 900;
+        color: #ffffff;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        text-transform: uppercase;
+        transition: 1s;
+    }
+    
+    #stop-responsive-section h4.title a:hover {
+        color:#FB7C47;
+    }
+    
+    #stop-responsive-section h4.title{
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    
+    
+    #stop-responsive-section p.description {
+        color: #ffffff;
+    }
+    
+    
+
+    
+    #stop-responsive-section a.view-stop:hover {
+        background: #ffffff;
+        color:#25334E;
+    }
+    
+
+
+
+
+
+/*--------------------------------------------------------------
+     stop-solution-section-section
+--------------------------------------------------------------*/
+
+
+
+
+/*--------------------------------------------------------------
+     stop-solution-section-section
+--------------------------------------------------------------*/
+#stop-solution-section {
+    background-image: url(../img/User-Experience/stop-solution-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#stop-solution-section {
+    padding: 5% 0px 7% 0px;
+}
+
+#stop-solution-section .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+}
+
+#stop-solution-section .muser-main-heading h1 {
+    color: #fb7c47;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 80px;
+
+}
+
+#stop-solution-section .text-muted {
+    font-size: 36px;
+    font-weight: 700;
+    color: #ffffff!important;
+}
+
+#stop-solution-section h6.card-price {
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+ span.period {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+#stop-solution-section a.view-stop {
+    background: #ffffff;
+    padding: 12px 30px;
+    color: #FB7C47;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: 1s;
+    border-radius: 7px;
+}
+
+#stop-solution-section .card:hover {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.09);
+}
+
+#stop-solution-section .stop-btn {
+    padding-top: 30px;
+}
+
+
+#stop-solution-section a.view-stop:hover {
+    background: #FB7C47;
+    color: #25344C;
+    
+}
+
+#stop-solution-section .card-boxes {
+    padding-top: 30px;
+}
+
+
+.card {
+    
+    background-color: #fb7c47!important;
+    background-clip: border-box!important;
+    border: 1px solid #fb7c47!important;
+    border-radius: 45px!important;
+    transition: 1s;
+}
+
+#stop-solution-section .fa-ul>li {
+    color: #ffffff;
+}
+
+.pricing .card {
+  border: none;
+  border-radius: 1rem;
+  transition: all 0.2s;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+  margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+}
+
+.pricing .card-price {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.pricing .card-price .period {
+  font-size: 0.8rem;
+}
+
+.pricing ul li {
+  margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+  opacity: 0.7;
+}
+
+.pricing .btn {
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  opacity: 0.7;
+  transition: all 0.2s;
+}
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+  .pricing .card:hover {
+    margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+  .pricing .card:hover .btn {
+    opacity: 1;
+  }
+}
+
+
+
+
+/*--------------------------------------------------------------
+    Mucollab-detail-section
+--------------------------------------------------------------*/
+
+
+.collab-section {
+    background-image: url(../img/User-Experience/about-collab-baner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#ui-ux-collab-section {
+    padding: 100px 0px 100px 0px;
+
+}
+
+#ui-ux-collab-section .digital-full-text {
+  text-align: center;
+}
+
+#about-collaba {
+    padding: 80px 0;
+}
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 150px;
+}
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 60px;
+    margin-top: -20px;
+}
+
+#ux-ui-subscribe-from {
+    background: #FB7C47;
+    padding: 5% 0% 5% 0%;
+} 
+
+
+
+/*--------------------------------------------------------------
+     business-talk-section
+--------------------------------------------------------------*/
+
+
+
+#business-talk-section {
+    padding: 5% 0% 5% 0%;
+}
+
+#business-talk-section {
+
+    background-image: url(../img/web-app-development/form-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+#business-talk-section  .aboutmu-detail-para p {
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#business-talk-section input.style-filed{
+    background: #25344c;
+    border-color: #25344c;
+    color: #ffffff!important;
+
+}
+
+
+#business-talk-section select.selec-opt {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+}
+
+#business-talk-section textarea#exampleFormControlTextarea6 {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+    height: 140px;
+    margin-top: -12px;
+}
+
+.talk-form-btn {
+text-align: center;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm {
+    background: #FB7C47;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border-color: #FB7C47;
+    font-weight: 700;
+    transition: 1s;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm:hover {
+
+    background: #ffffff;
+    color: #25344C;
+    border-color: #25344C;
+}
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width:1256px){
+
+.stop-btn.call-but a {
+    padding: 14px 41px !important;
+    font-size: 26px !important;
+}
+.stop-btn.call-but {
+    text-align: right;
+    top: -183px;
+    position: relative;
+    left: -57px;
+}
+}
+
+@media only screen and (max-width:1255px) and (min-width:768px){
+    .stop-btn.call-but {
+        text-align: right;
+        top: -80px;
+        position: relative;
+        left: -26px;
+    }
+    a.view-stop.det-stop-btn {
+        padding: 17px 17px !important;
+        font-size: 23px !important;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:956px){
+
+    .wordpress-list p {
+        font-size: 18px;
+    }
+    h2.intro-sub {
+        font-size: 47px;
+        line-height: 48px;
+        margin-top: 15%;
+    }
+    }
+@media only screen and (min-width:300px) and (max-width: 767px) {
+
+    #stop-solution-section .stop-btn {
+        padding-bottom: 41px;
+        padding-top: 41px;
+    }
+    .card {
+        margin-bottom: 0px !important;
+    }
+    section#ux-ui-subscribe-from {
+        padding: 12% 0% 12% 0%;
+    }
+    section#business-talk-section {
+        padding: 12% 0% 12% 0%;
+    }
+    h2.intro-sub {
+        margin-top: 7%;
+  }
+  img.intropics.lptp {
+    margin-top: 34px;
+}
+  .wordpres-video iframe {
+    width: 72%;
+    height: 139px;
+    margin-bottom: 33px;
+}
+  section#stop-responsive-section {
+    padding-top: 47px;
+    padding-bottom: 53px;
+}
+   
+    .stop-btn.call-but {
+        text-align: right;
+        top: -50px;
+        position: relative;
+    }
+    h2 {
+        font-size: 32px !important;
+        line-height: 40px !important;
+    }
+    
+    p {
+        font-size: 14px !important;
+        line-height: 20px !important;
+    }
+    
+    
+    
+    a.view-stop.det-stop-btn {
+        padding: 10px 32px !important;
+
+        font-size: 14px !important;
+    }
+    
+    h4.title a {
+        font-size: 18px !important;
+    }
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+#wordpress .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 35px;
+
+}
+#wordpress {
+    padding-top: 158px;
+    padding-bottom: 60px;
+}
+
+
+.design-proces img {
+    width: 200px;
+    margin-top: 33px;
+}
+
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 80px;
+}
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 50px;
+    margin-top: -20px;
+}
+
+#business-talk-section .talk-heading h2 {
+
+	    font-size: 40px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services, .btn-get-started {
+  font-size: 16px;
+  padding: 15px 34px;
+}
+
+#stop-solution-section .muser-main-heading h1 {
+font-size: 36px;
+line-height: 50px;
+
+}
+
+#stop-solution-section {
+    padding: 10% 0px 3% 0px;
+}
+
+#mu-userexpo-proces {
+    
+    padding-bottom: 12%;
+}
+
+
+}
+
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+
+
+
+
+#ui-ux-collab-section .digital-text h2 {
+      font-size: 120px;
+      line-height: 140px;
+}
+
+}
+
+@media only screen and (min-width:768px) and (max-width: 992px) {
+
+#wordpress .muser-main-heading h1 {
+	font-size: 60px;
+}
+
+
+#ui-ux-collab-section .digital-text h2 {
+      font-size: 90px;
+      line-height: 120px;
+}
+
+}
+@media only screen and (min-width:768px) {}
+img.intropics.lptp {
+    top: 39px;
+    position: relative;
+}}

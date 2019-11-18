@@ -1,0 +1,708 @@
+
+#header {
+    height: 75px;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    padding: 0px 0; 
+    position: fixed;
+    left: 0;
+    top: 42;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #ffffff;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+    #design-userexp-main
+--------------------------------------------------------------*/
+
+
+#design-userexp-main {
+    padding-top: 185px;
+    padding-bottom: 100px;
+}
+
+#design-userexp-main{
+    background-image: url(../img/socialmedia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#design-userexp-main .muser-main-heading{
+    text-align:center;
+}
+
+#design-userexp-main .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#design-userexp-main a.download-btn {
+    border: 4px solid #ffffff;
+}
+
+#design-userexp-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 110px;
+
+}
+
+/*--------------------------------------------------------------
+    #mu-userexpo-proces
+--------------------------------------------------------------*/
+
+
+#mu-userexpo-proces {
+    background-image: url(../img/social-media/social-network-bg.jpg);
+    padding-bottom: 3%;
+    background-size: cover;
+    background-position: center center;
+}
+
+#mu-userexpo-proces .design-proces {
+    text-align: center;
+    margin-top: -83px;
+}
+
+
+#mu-userexpo-proces .cater-img img {
+    width: 40%;
+}
+
+
+#mu-userexpo-proces .design-process-heading h2 {
+    font-weight: 900;
+    color: #222222;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+}
+
+#mu-userexpo-proces .design-process-heading h2.soc-net {
+    font-weight: 900;
+    color: #FB7C47;
+    font-size: 70px;
+    line-height: 80px;
+    text-transform: uppercase;
+    margin-top: -25px;
+
+}
+
+#mu-userexpo-proces .design-process-heading {
+    text-align: center;
+} 
+
+#mu-userexpo-proces .desi-proce-para {
+    text-align: -webkit-center;
+    margin: 0 auto;
+    text-align: -moz-center;
+
+}
+
+#mu-userexpo-proces .firs-box-sect {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#mu-userexpo-proces .desi-proce-para p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    line-height: 27px;
+    width: 80%;
+     color: #25344c;
+}
+
+#mu-userexpo-proces a.view-stop {
+    background: #FB7C47;
+    padding: 12px 30px;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: 1s;
+    border-radius: 7px;
+}
+
+
+#mu-userexpo-proces a.view-stop:hover {
+    background: #25344C;
+    color: #ffffff;
+   
+}
+
+
+
+
+/*--------------------------------------------------------------
+E-commerce-video-sec
+--------------------------------------------------------------*/
+
+
+#ecomm-video {
+background: #1c1c1c;
+padding-bottom: 5%;
+padding-top:5%;
+}
+
+.ecomm-video iframe {
+width: 72%;
+height: 400px;
+}
+
+#ecomm-video a.view-stop {
+background: #FB7C47;
+padding: 12px 30px;
+color: #ffffff;
+font-size: 17px;
+line-height: 40px;
+text-transform: uppercase;
+font-weight: 700;
+transition: 1s;
+border-radius: 7px;
+}
+
+#ecomm-video .stop-btn{
+
+margin-top:35px;
+
+}
+
+#ecomm-video .design-process-heading h2 {
+font-weight: 900;
+color: #fff;
+font-size: 40px;
+line-height: 50px;
+text-transform: uppercase;
+}
+
+#ecomm-video .desi-proce-para p{
+
+color:#fff;
+}
+
+#ecomm-video .design-process-heading {
+text-align: center;
+} 
+
+
+#ecomm-video .desi-proce-para {
+text-align: -webkit-center;
+margin: 0 auto;
+text-align: -moz-center;
+}
+
+
+
+/*--------------------------------------------------------------
+     stop-solution-section-section
+--------------------------------------------------------------*/
+#stop-solution-section {
+    background-image: url(../img/User-Experience/stop-solution-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#stop-solution-section {
+    padding: 5% 0px 7% 0px;
+}
+
+#stop-solution-section .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+}
+
+#stop-solution-section .muser-main-heading h1 {
+    color: #fb7c47;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 80px;
+
+}
+
+#stop-solution-section .text-muted {
+    font-size: 36px;
+    font-weight: 700;
+    color: #ffffff!important;
+}
+
+#stop-solution-section h6.card-price {
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+ span.period {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+#stop-solution-section a.view-stop {
+    background: #ffffff;
+    padding: 12px 30px;
+    color: #FB7C47;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: 1s;
+    border-radius: 7px;
+}
+
+#stop-solution-section .card:hover {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.09);
+}
+
+#stop-solution-section .stop-btn {
+    padding-top: 30px;
+}
+
+
+#stop-solution-section a.view-stop:hover {
+    background: #FB7C47;
+    color: #25344C;
+    
+}
+
+#stop-solution-section .card-boxes {
+    padding-top: 30px;
+}
+
+
+.card {
+    
+    background-color: #fb7c47!important;
+    background-clip: border-box!important;
+    border: 1px solid #fb7c47!important;
+    border-radius: 45px!important;
+    transition: 1s;
+}
+
+#stop-solution-section .fa-ul>li {
+    color: #ffffff;
+}
+
+.pricing .card {
+  border: none;
+  border-radius: 1rem;
+  transition: all 0.2s;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+  margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+}
+
+.pricing .card-price {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.pricing .card-price .period {
+  font-size: 0.8rem;
+}
+
+.pricing ul li {
+  margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+  opacity: 0.7;
+}
+
+.pricing .btn {
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  opacity: 0.7;
+  transition: all 0.2s;
+}
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+  .pricing .card:hover {
+    margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+  .pricing .card:hover .btn {
+    opacity: 1;
+  }
+}
+
+/*--------------------------------------------------------------
+carosel-portfolio-section
+--------------------------------------------------------------*/
+#carosel-portfolio {
+    padding: 5% 0px 3% 0px;
+}
+
+#carosel-portfolio .portfolio-title h2 {
+    font-size: 60px;
+    line-height: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #FB7C47;
+}
+
+
+#carosel-portfolio .channel-text h3{
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 25px;
+
+}
+
+
+#port-social-icon .social-links a {
+    padding: 15px;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+#port-social-icon {
+    padding-bottom: 30px;
+}
+
+#carosel-portfolio .port-dental-img {
+    padding-bottom: 40px;
+}
+
+
+#carosel-portfolio span.glyphicon.gly-border.glyphicon-chevron-left {
+    border: 1px solid #FB7C47;
+    font-size: 22px;
+    padding-top: 2px;
+    color: #FB7C47;
+    border-radius: 100px;
+    text-shadow: none;
+    transition: 1s;
+}
+
+
+#carosel-portfolio span.glyphicon.gly-border.glyphicon-chevron-right {
+    border: 1px solid #FB7C47;
+    font-size: 22px;
+    padding-top: 2px;
+    color: #FB7C47;
+    border-radius: 100px;
+    text-shadow: none;  
+    transition: 1s;
+}
+
+#carosel-portfolio span.glyphicon.gly-border.glyphicon-chevron-right:hover {
+        border: 1px solid #25344C;
+        color: #25344C;
+}
+
+#carosel-portfolio span.glyphicon.gly-border.glyphicon-chevron-left:hover {
+        border: 1px solid #25344C;
+        color: #25344C;
+}
+
+
+#carosel-portfolio li {
+    background-color: #FB7C47;
+    border: 1px solid #FB7C47;
+}
+
+
+
+#carosel-portfolio .carousel-control {
+        opacity: 1;
+        background: unset;
+}
+
+#carosel-portfolio li.active {
+    background-color: #25344C;
+    border: 1px solid #25344C;
+}
+
+
+
+#ux-ui-subscribe-from .subsc-form-popup {
+z-index: 0;
+    position: relative;
+
+}
+
+#minimum-clicks-section a.view-stop:hover {
+    background: #25334E;
+    color:#ffffff;
+}
+
+/*--------------------------------------------------------------
+    Mucollab-detail-section
+--------------------------------------------------------------*/
+
+
+#ux-ui-subscribe-from {
+    background: #FB7C47;
+    padding: 5% 0% 5% 0%;
+} 
+
+
+
+/*--------------------------------------------------------------
+     business-talk-section
+--------------------------------------------------------------*/
+
+
+
+#business-talk-section {
+    padding: 5% 0% 5% 0%;
+}
+
+#business-talk-section {
+
+    background-image: url(../img/web-app-development/form-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+#business-talk-section  .aboutmu-detail-para p {
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#business-talk-section  #inputGroupSelect01 {
+    width: 100%;
+    padding: 5px 12px;
+    height: 34px;
+    font-size: 13px;
+    color: #f0f0f0!important;
+}
+
+#business-talk-section input.style-filed{
+    background: #25344c;
+    border-color: #25344c;
+    color: #ffffff!important;
+
+}
+
+
+#business-talk-section select.selec-opt {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+}
+
+#business-talk-section textarea#exampleFormControlTextarea6 {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+    height: 140px;
+    margin-top: -12px;
+}
+
+.talk-form-btn {
+text-align: center;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm {
+    background: #FB7C47;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border-color: #FB7C47;
+    font-weight: 700;
+    transition: 1s;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm:hover {
+
+    background: #ffffff;
+    color: #25344C;
+    border-color: #25344C;
+}
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width:993px){
+
+
+}
+@media only screen and (max-width:992px){
+
+
+}
+
+
+@media only screen and (min-width:300px) and (max-width: 767px) {
+
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+#mu-userexpo-proces .design-process-heading h2.soc-net {
+    font-size: 36px;
+    line-height: 50px;
+    margin-top: 0px;
+}
+
+#mu-userexpo-proces .desi-proce-para p {
+    font-size: 14px;
+   
+    line-height: 22px;
+}
+
+
+#ecomm-video {
+    padding-bottom: 12%;
+    padding-top: 12%;
+
+}
+
+#stop-solution-section .aboutmu-detail-para p {
+    font-size: 14px;
+}
+
+#stop-solution-section .stop-btn {
+    padding-bottom: 50px;
+}
+
+
+#carosel-portfolio .portfolio-title h2 {
+       font-size: 40px;
+    line-height: 40px;
+        margin-top: 20px; 
+}
+
+
+#carosel-portfolio {
+    padding: 12% 0px 9% 0px;
+}
+
+
+#ux-ui-subscribe-from {
+    padding: 12% 0px 12% 0px;
+}
+
+#business-talk-section {
+    padding: 5% 0% 12% 0%;
+}
+
+#stop-solution-section {
+ padding: 12% 0px 7% 0px;
+
+}
+
+#business-talk-section textarea#exampleFormControlTextarea6 {
+        margin-top: 0px;
+}
+
+
+
+#design-userexp-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 35px;
+
+}
+#design-userexp-main {
+    padding-top: 158px;
+    padding-bottom: 60px;
+}
+
+
+.design-proces img {
+    width: 200px;
+    margin-top: 33px;
+}
+
+
+
+#business-talk-section .talk-heading h2 {
+
+	    font-size: 40px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services, .btn-get-started {
+  font-size: 16px;
+  padding: 15px 34px;
+}
+
+#stop-solution-section .muser-main-heading h1 {
+font-size: 36px;
+line-height: 50px;
+
+}
+
+
+
+#mu-userexpo-proces {
+    
+    padding-bottom: 12%;
+}
+
+
+}
+
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+
+
+
+}
+
+@media only screen and (min-width:768px) and (max-width: 992px) {
+
+
+
+
+#design-userexp-main .muser-main-heading h1 {
+	font-size: 60px;
+}
+
+
+
+}
+

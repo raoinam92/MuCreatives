@@ -1,0 +1,610 @@
+.don-arrow.container-fluid {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+#aboutmu-main {
+  padding-top: 150px;
+    padding-bottom: 40px;
+} 
+
+.mu-aboutmu-bg {
+       background-image: url('../img/about/about-banner-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#aboutmu-main .muser-main-heading{
+    text-align:center;
+}
+
+#aboutmu-main .aboutmu-detail-para p {
+    color: #ffffff;
+   
+}
+
+#aboutmu-main a.download-btn {
+    border: 4px solid #ffffff;
+}
+
+#aboutmu-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 125px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 145px;
+
+}
+
+
+
+img {
+	max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+     Aboutleader-ship-section
+--------------------------------------------------------------*/
+
+
+#aboutleader-section {
+    padding: 0px 0px 40px 0px;
+}
+
+
+#aboutleader-section .aboutmu-detail-para p {
+   
+    text-align: center;
+}
+
+.video-section {
+
+
+    background-color: #25344c;
+   
+}
+
+.board-main-heading h2 {
+    color: #e9e9e9;
+    text-align: center;
+    font-size: 190px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 215px;
+}
+
+.bord-nagi {
+    margin-top: -8%;
+}
+
+.ceo-pik {
+	text-align: center;
+}
+
+.ceo-pik h2 {
+	font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fb7c47;
+    margin-bottom: 0px;
+}
+
+
+.dircs-pik h2 {
+	font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fb7c47;
+    margin-bottom: 0px;
+}
+.don-arrow {
+    margin-top: -4px;
+}
+
+.dircs-pik {
+	text-align: center;
+}
+
+.don-arrow img {
+    margin-top: 11px;
+}
+
+.dircs-pik p {
+	font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    color: #505050;
+}
+
+.ceo-pik p {
+	font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    color: #505050;
+}
+
+.See-btn.testi {
+    margin-top: 8%;
+}
+
+
+.liner-board-director {
+	background-image: linear-gradient(to top, #d1d1d1 0%, #e9e9e9 100%);
+    padding-top: 18%;
+    margin-top: -24.5%;
+    border-bottom: 2px solid #FB7C47;
+}
+
+.director-marg {
+    margin-top: 7%;
+}
+
+
+.mu-vieo {
+margin-top: -70px;
+margin-bottom:50px; 
+}
+
+#aboutleader-section .muser-main-heading h1 {
+    color: #fb7c47;
+    text-align: center;
+    font-size: 190px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 215px;
+
+}
+
+
+
+
+
+
+/*--------------------------------------------------------------
+     our process-section
+     --------------------------------------------------------------*/
+
+
+.our-process {
+    max-width: 370px;
+    border: 3px solid #e78552;
+    max-height: 103px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.our-process .num {
+    max-width: 107px;
+    max-height: 107px;
+    color: #fff;
+    float: left;
+    padding: 50px 0px 0px 10px;
+    clip-path: polygon(0 0, 33% 0, 100% 100%, 0% 100%);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 8px;
+    border: 3px solid #e78552;
+    background-color: #e26935;
+    margin: -5px 0px 0px -10px;
+    width: 100%;
+}
+
+.our-process .num h3 {
+    font-size: 39px;
+    font-weight: 700;
+}
+.our-process .right-bar {
+    text-align: right;
+    overflow: hidden;
+    padding: 0px 8px 22px 0px;
+    position: relative;
+}
+.our-process .right-bar h2 {
+    font-size: 21px;
+    color: #e26935;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+        margin-top: 2px;
+}
+.our-process .right-bar p {
+    font-size: 10px;
+    line-height:13px;
+}
+
+#about-collab-section .see-btn {
+border: 0px solid #ffffff;
+}
+
+
+.proc-one {
+	    margin-top: -14%;
+}
+
+
+.process-section {
+    margin-top: 5%;
+}
+
+.process-first {
+	margin-left: 24%;
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.process-sec {
+   
+    margin-bottom: 5%;
+    margin-left: 12%;
+}
+
+.process-third {
+    margin-left: -6%;
+}
+
+
+#process-ban-section {
+       padding: 2% 0% 6% 0%;
+}
+
+.process-section {
+
+    background-color: #e6e6e6;
+}
+
+
+#process-ban-section .process-main-heading h2 {
+    color: #f5f5f5;
+    text-align: center;
+    font-size: 145px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 165px;
+
+}
+
+
+/*--------------------------------------------------------------
+aboutmu-video-section
+--------------------------------------------------------------*/
+
+
+#aboutmu-video-section {
+    padding: 0px 0px 40px 0px;
+}
+
+.video-section {
+
+
+    background-color: #25344c;
+   
+}
+
+.mu-vieo {
+margin-top: -70px;
+margin-bottom:50px; 
+}
+
+#aboutmu-video-section .muser-main-heading h1 {
+    color: #344561;
+    text-align: center;
+    font-size: 145px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 165px;
+
+}
+
+
+/*--------------------------------------------------------------
+technologies-images-section
+--------------------------------------------------------------*/
+
+#aboutmu-video-section {
+    padding: 0px 0px 40px 0px;
+}
+
+.technologies-section {
+    background-color: #e26935;   
+}
+
+#aboutmu-technologies-section .mu-vieo {
+margin-top: -70px;
+margin-bottom:50px; 
+}
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+    color: #f38251;
+    text-align: center;
+    font-size: 145px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 165px;
+
+}
+
+
+
+
+
+
+.cod-img img {
+    width: 100%;
+}
+
+
+
+
+
+
+#about-collab-section {
+padding: 100px 0px 70px;
+
+}
+
+#about-collab-section .digital-full-text {
+  text-align: center;
+}
+
+
+#about-collaba {
+    padding: 80px 0;
+   
+
+}
+
+.collab-section {
+    background-image: url(../img/about/collab-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+#about-collab-section .digital-text h2 {
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 150px;
+}
+
+
+#about-collab-section .marketing-text h3 {
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 60px;
+    margin-top: -20px;
+}
+
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width:993px){
+
+
+}
+@media only screen and (max-width:992px){
+
+
+}
+@media only screen and (min-width:300px) and (max-width: 768px) {
+
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+#aboutmu-video-section {
+	padding: 12% 0px 17% 0px;
+}
+
+#about-collab-section {
+	padding: 80px 0px 70px;
+}
+
+.board-main-heading h2 {
+	font-size: 60px;
+	line-height: 80px;
+    margin-bottom: 60px;
+}
+
+#aboutmu-technologies-section {
+    padding: 12% 0% 12% 0%;
+}
+
+#process-ban-section {
+	    padding: 12% 0% 12% 0%;
+}
+
+.proc-one {
+    margin-top: 20%;
+}
+
+.process-first {
+	margin-top: 13%;
+    margin-bottom: 12%;
+    margin-left: 0%;
+}
+
+.process-sec {
+	margin-bottom: 5%;
+    margin-left: 0%;
+}
+
+.process-third {
+	padding-top: 6%;
+    padding-bottom: 6%;
+    margin-left: 0%;
+}
+
+.liner-board-director {
+	background-image: unset;
+    padding-top: 0%;
+    margin-top: 0%;
+    border-bottom: 0px solid #FB7C47;
+}
+
+#process-ban-section .process-main-heading h2 {
+    font-size: 46px;
+	line-height: 56px;
+}
+
+#aboutmu-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 65px;
+
+}
+
+#aboutleader-section .muser-main-heading h1 {
+    color: #fb7c47;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 70px;
+
+}
+
+
+.mu-vieo {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#aboutmu-video-section .muser-main-heading h1 {
+    color: #344561;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 65px;
+
+}
+
+
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 65px;
+
+}
+
+
+
+
+
+
+#about-collab-section .digital-text h2 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 80px;
+}
+
+#about-collab-section .marketing-text h3 {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 50px;
+    margin-top: -20px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services, .btn-get-started {
+
+  font-size: 16px;
+  padding: 15px 34px;
+}
+
+
+}
+
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+
+#aboutmu-main .muser-main-heading h1 {
+  font-size: 120px;
+  line-height: 140px;
+}
+
+#aboutleader-section .muser-main-heading h1 {
+  font-size: 120px;
+  line-height: 140px;
+}
+
+#aboutmu-video-section .muser-main-heading h1 {
+      font-size: 100px;
+      line-height: 120px;
+}
+.mu-vieo {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+  font-size: 120px;
+  line-height: 140px;
+
+}
+
+#about-collab-section .digital-text h2 {
+      font-size: 120px;
+      line-height: 140px;
+}
+
+
+}
+
+@media only screen and (min-width:769px) and (max-width: 992px) {
+
+#aboutmu-main .muser-main-heading h1 {
+  font-size: 90px;
+  line-height: 120px;
+}
+
+#aboutleader-section .muser-main-heading h1 {
+  font-size: 90px;
+  line-height: 115px;
+}
+
+#aboutmu-video-section .muser-main-heading h1 {
+      font-size: 75px;
+      line-height: 120px;
+}
+.mu-vieo {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+  font-size: 90px;
+  line-height: 115px;
+
+}
+
+#about-collab-section .digital-text h2 {
+      font-size: 90px;
+      line-height: 120px;
+}
+
+}
+

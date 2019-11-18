@@ -1,0 +1,4 @@
+[15-Oct-2019 06:24:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_screen() in /home/mavenupc/public_html/blog/wp-admin/network/upgrade.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mavenupc/public_html/blog/wp-admin/network/upgrade.php on line 18

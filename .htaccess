@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://www.mucreatives.com/$1 [R=301,L] 
+RewriteCond %{http_host} ^mucreatives.com [NC]
+RewriteRule ^(.*)$ https://www.mucreatives.com/c/$1 [R=301,L] 
+RewriteRule ^ index.php [L]
+RewriteCond %robots.txt -f [NC]
+RewriteRule ^ index.php [L]

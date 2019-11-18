@@ -1,0 +1,760 @@
+
+#header {
+    height: 75px;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    padding: 0px 0; 
+    position: fixed;
+    left: 0;
+    top: 42;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #ffffff;
+}
+img {
+    max-width:100%;
+}
+
+img.web {
+    width: 90px;
+}
+
+#ecommerce-portal-main {
+    padding-top: 185px;
+    padding-bottom: 100px;
+}
+.mu-weuimu-frame {
+    background-image: url(../img/framework-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.mu-weuimu-lang {
+      background-image: url(../img/Languages-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.mu-weuimu-bg {
+    background-image: url(../img/cms-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#ecommerce-portal-main .muser-main-heading{
+    text-align:center;
+}
+
+#ecommerce-portal-main .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#ecommerce-portal-main a.download-btn {
+    border: 4px solid #ffffff;
+}
+
+#ecommerce-portal-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 110px;
+
+}
+
+
+.subsc-form-popup {
+        z-index: unset!important;
+}
+
+h4.title a {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+/*--------------------------------------------------------------
+     E-commerce-video-sec
+--------------------------------------------------------------*/
+
+
+#ecomm-video {
+    background: #1c1c1c;
+    padding-bottom: 5%;
+    padding-top:5%;
+}
+
+.ecomm-video iframe {
+    width: 72%;
+    height: 400px;
+}
+
+
+
+
+a.view-stop {
+background: #FB7C47;
+padding: 12px 30px;
+color: #ffffff;
+font-size: 17px;
+line-height: 40px;
+text-transform: uppercase;
+font-weight: 700;
+transition: 1s;
+border-radius: 7px;
+}
+
+#ecomm-video .stop-btn{
+    
+    margin-top:35px;
+    
+}
+
+#ecomm-video .design-process-heading h2 {
+    font-weight: 900;
+    color: #fff;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+#ecomm-video .desi-proce-para p{
+    
+    color:#fff;
+}
+
+#ecomm-video .design-process-heading {
+    text-align: center;
+} 
+
+
+#ecomm-video .desi-proce-para {
+    text-align: -webkit-center;
+    margin: 0 auto;
+    text-align: -moz-center;
+}
+
+
+#ecommerce-video-sec .desi-proce p {
+    color: #000000;
+    text-align:left;
+}
+
+
+/*--------------------------------------------------------------
+     Ecommerce-dev-section
+--------------------------------------------------------------*/
+.dev-icon-navi {
+    top: -210px;
+    text-align:right;
+}
+
+#dev-ecommerce {
+    padding-top: 5%;
+
+}
+#dev-ecommerce .responsive-dev-img {
+    margin-bottom: -150px;
+}
+
+
+#dev-ecommerce .bg-orange{
+    
+   background: #FB7C47;
+    padding: 3.7%;
+    margin-top: -9%;
+    
+}
+
+.dev-ecomm-img img{
+    width: 70%;
+    margin-top: 55px;
+    max-width: 100%;
+    
+}
+
+
+.dev-ecomm-heading h2 {
+    font-size: 60px;
+    font-weight: 800;
+    color: #fb7c47;
+    margin-bottom: 0px;
+    line-height: 70px;
+    text-transform: uppercase;
+}
+
+.dev-ecomm-heading h3 {
+    font-size: 46px;
+    font-weight: 800;
+    color: #c7c7c7;
+    margin-bottom: 0px;
+    line-height: 46px;
+    text-transform: uppercase;
+}
+
+
+#dev-ecommerce .design-process-heading h2 {
+    font-weight: 900;
+    color: #323232;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+
+
+#dev-ecommerce .firs-box-sect {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#dev-ecommerce .ui-process-para p {
+    color: #323232;
+    font-size: 18px;
+    line-height: 27px;
+    width: 65%;
+    margin: 0 auto;
+}
+
+#dev-ecommerce .content-proces h3 {
+    color: #323232;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+
+
+#dev-ecommerce .icon-img{
+    
+    text-align:center;
+    
+}
+
+#dev-ecommerce .icon-img img{
+    margin-bottom: 15px;
+}
+
+#dev-ecommerce a.view-stop {
+background: #FB7C47;
+padding: 12px 30px;
+color: #ffffff;
+font-size: 17px;
+line-height: 40px;
+text-transform: uppercase;
+font-weight: 700;
+transition: 1s;
+border-radius: 7px;
+}
+
+#provide-ecommerce .stop-btn{    text-align: center;
+    padding: 3% 0px;}
+
+
+#dev-ecommerce a.view-stop:hover {
+background: #ffffff;
+color: #25334E;
+}
+
+
+/*--------------------------------------------------------------
+     E-commerce-Portal-Development
+--------------------------------------------------------------*/
+#cms-portal-dev a.view-stop {
+background: #ffffff;
+padding: 12px 30px;
+color: #FB7C47;
+font-size: 17px;
+line-height: 40px;
+text-transform: uppercase;
+font-weight: 700;
+transition: 1s;
+border-radius: 7px;
+}
+
+#cms-portal-dev a.view-stop:hover {
+background: #25344C;
+color: #FB7C47;
+}
+
+#cms-portal-dev {
+    background: #fb7c47;
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
+
+#cms-portal-dev .stop-btn {
+    padding-top: 3%;
+}
+
+
+#cms-portal-dev .design-proces {
+    text-align: center;
+    margin-top: -53px;
+}
+
+#cms-portal-dev .design-process-heading h2 {
+    font-weight: 900;
+    color: #fff;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+#cms-portal-dev .desi-proce-para p{
+    
+    color:#fff;
+}
+
+#cms-portal-dev .design-process-heading {
+    text-align: center;
+} 
+
+
+#cms-portal-dev .desi-proce-para {
+    text-align: -webkit-center;
+    margin: 0 auto;
+    text-align: -moz-center;
+}
+
+#cms-portal-dev .ecom-port {
+    padding-top: 5%;
+}
+
+#cms-portal-dev h4.title {
+    padding-top: 20px;
+}
+
+#cms-portal-dev h4.title a {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+
+}
+
+#cms-portal-dev p.description {
+    color: #ffffff;
+}
+/*--------------------------------------------------------------
+    content-man-section
+--------------------------------------------------------------*/
+
+#language-man-section {
+    background-image: url(../img/User-Experience/language-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.lang-port {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#language-man-section h4.title {
+    padding-top: 15px;
+}
+
+#language-man-section  .design-process-heading h2 {
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+
+#frame-man-section {
+    background-image: url(../img/User-Experience/frameworks-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.lang-port {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#frame-man-section h4.title {
+    padding-top: 15px;
+}
+
+#frame-man-section  .design-process-heading h2 {
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+
+#provide-ecommerce {
+    background-image: url(../img/User-Experience/stop-solution-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+#provide-ecommerce .design-proces {
+    text-align: center;
+    margin-top: -53px;
+}
+
+.btn-design-web a.btn-web-app {
+    padding: 10px 25px;
+    background: #FB7C47;
+    border-radius: 7px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 13px;
+    text-align: center;
+}
+
+.btn-design-web {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.btn-design-web a.btn-web-app:hover {
+    background: #ffffff;
+    color: #FB7C47;
+}
+
+#provide-ecommerce .design-process-heading h2 {
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.desi-proce-para p {
+    text-align:center;
+    color:#ffffff;
+}
+
+#provide-ecommerce .design-process-heading {
+    text-align: center;
+} 
+
+
+#provide-ecommerce .desi-proce-para {
+    text-align: -webkit-center;
+    margin: 0 auto;
+    text-align: -moz-center;
+}
+
+#provide-ecommerce .firs-box-sect {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#provide-ecommerce .ui-process-para p {
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#provide-ecommerce .content-proces h3 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align:center;
+}
+
+
+
+#provide-ecommerce .icon-img{
+    
+    text-align:center;
+    
+}
+
+#provide-ecommerce .icon-img img{
+    margin-bottom: 15px;
+}
+
+#provide-ecommerce a.view-stop {
+background: #FB7C47;
+padding: 12px 30px;
+color: #ffffff;
+font-size: 17px;
+line-height: 40px;
+text-transform: uppercase;
+font-weight: 700;
+transition: 1s;
+border-radius: 7px;
+}
+
+#provide-ecommerce .stop-btn{    text-align: center;
+    padding: 3% 0px;}
+
+
+#provide-ecommerce a.view-stop:hover {
+background: #ffffff;
+color: #25334E;
+}
+
+
+
+
+/*--------------------------------------------------------------
+    Mucollab-detail-section
+--------------------------------------------------------------*/
+
+
+.collab-section {
+    background-image: url(../img/digital-marketing/dm-brand-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#ui-ux-collab-section {
+    padding: 100px 0px 100px 0px;
+
+}
+
+#ui-ux-collab-section .digital-full-text {
+  text-align: center;
+}
+
+
+#about-collaba {
+    padding: 80px 0;
+   
+
+}
+
+
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 150px;
+}
+
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 60px;
+    margin-top: -20px;
+}
+
+#ux-ui-subscribe-from {
+    background: #FB7C47;
+    padding: 5% 0% 5% 0%;
+} 
+
+
+
+/*--------------------------------------------------------------
+     business-talk-section
+--------------------------------------------------------------*/
+
+
+
+#business-talk-section {
+    padding: 5% 0% 5% 0%;
+}
+
+#business-talk-section {
+
+    background-image: url(../img/digital-marketing/talk-business.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+#business-talk-section  .aboutmu-detail-para p {
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#business-talk-section input.style-filed{
+    background: #25344c;
+    border-color: #25344c;
+    color: #ffffff!important;
+
+}
+
+
+#business-talk-section select.selec-opt {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+
+}
+
+#business-talk-section textarea#exampleFormControlTextarea6 {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+    height: 140px;
+    margin-top: -12px;
+}
+
+.talk-form-btn {
+text-align: center;
+
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm {
+    background: #FB7C47;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border-color: #FB7C47;
+    font-weight: 700;
+    transition: 1s;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm:hover {
+
+    background: #ffffff;
+    color: #25344C;
+    border-color: #25344C;
+}
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+@media only screen and (min-width:300px) and (max-width: 767px) {
+
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+#ecommerce-portal-main .muser-main-heading h1 {
+        font-size: 36px;
+        line-height: 50px;
+}
+
+#cms-portal-dev .design-process-heading h2 {
+    font-weight: 900;
+    color: #fff;
+    font-size: 28px;
+    line-height: 36px;
+    text-transform: uppercase;
+
+}
+
+#ecomm-video .design-process-heading h2 {
+    font-weight: 900;
+    color: #fff;
+    font-size: 28px;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+.dev-ecomm-heading h3 {
+       font-size: 30px;
+       line-height: 46px;
+       text-align: center;
+}
+.dev-ecomm-heading h2 {
+        font-size: 26px;
+        line-height: 30px;
+        text-align: center;
+}
+
+.dev-ecomm-heading {
+    margin-bottom: 15px;
+}
+
+.btn-design-web {
+   margin-bottom: 50px; 
+}
+
+
+#provide-ecommerce .firs-box-sect {
+        padding-bottom: 0px;
+}
+
+#provide-ecommerce .design-process-heading h2 {
+    font-weight: 900;
+    
+    font-size: 26px;
+    line-height: 36px;
+    text-transform: uppercase;
+}
+#business-talk-section .talk-heading h2 {
+        font-size: 36px;
+        line-height: 50px;
+}
+#ecomm-video {
+    padding: 12% 0% 12% 0%;
+}
+#business-talk-section {
+        padding: 12% 0% 12% 0%;
+}
+#ux-ui-subscribe-from {
+  padding: 12% 0% 12% 0%;  
+}
+#provide-ecommerce {
+ padding: 12% 0% 2% 0%;     
+}
+#dev-ecommerce {
+    padding-top: 12%;
+}
+#cms-portal-dev {
+    padding-bottom: 12%;
+}
+
+#language-man-section {
+
+padding-top: 12%;   
+
+    
+}
+#frame-man-section {
+
+padding-top: 12%;   
+    
+}
+
+}
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+}
+
+@media only screen and (min-width:768px) and (max-width: 992px) {
+
+}
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+    
+}
+

@@ -1,0 +1,500 @@
+
+#header {
+    height: 75px;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    padding: 0px 0; 
+    position: fixed;
+    left: 0;
+    top: 42;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #ffffff;
+}
+
+#design-ui-main {
+    padding-top: 185px;
+    padding-bottom: 100px;
+}
+
+.mu-weuimu-bg {
+    background-image: url(../img/UI-UX.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#design-ui-main .muser-main-heading{
+    text-align:center;
+}
+
+#design-ui-main .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#design-ui-main a.download-btn {
+    border: 4px solid #ffffff;
+}
+
+#design-ui-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 110px;
+
+}
+
+/*--------------------------------------------------------------
+     Design-Processing-section
+--------------------------------------------------------------*/
+
+
+#mu-design-proces {
+    background: #FB7C47;
+    padding-bottom: 3%;
+}
+
+
+#mu-design-proces .design-proces {
+    text-align: center;
+    margin-top: -53px;
+}
+
+#mu-design-proces .design-process-heading h2 {
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+#mu-design-proces .design-process-heading {
+    text-align: center;
+} 
+
+
+#mu-design-proces .desi-proce-para {
+    text-align: -webkit-center;
+    margin: 0 auto;
+    text-align: -moz-center;
+}
+
+#mu-design-proces .firs-box-sect {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#mu-design-proces .desi-proce-para p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    line-height: 27px;
+    width: 80%;
+}
+
+#mu-design-proces .content-proces h3 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+#mu-design-proces .content-proces.first-box-process h3:before{
+    content: '';
+    display: block;
+    height: 44px;  /*height of icon */
+    width: 44px;  /*width of icon */
+    position: relative;
+      /*where to replace the icon */
+    top: -7px;
+    left: 0px;
+      /*background */
+    background: url(../img/web-design-ui/goal.png) no-repeat 0px 0px;
+    float: right;
+}
+
+
+#mu-design-proces .content-proces.two-box-process  h3:before{
+    content: '';
+    display: block;
+    height: 44px;  /*height of icon */
+    width: 44px;  /*width of icon */
+    position: relative;
+      /*where to replace the icon */
+    top: -7px;
+    left: 0px;
+      /*background */
+    background: url(../img/web-design-ui/student.png) no-repeat 0px 0px;
+    float: right;
+}
+
+#mu-design-proces .content-proces.three-box-process h3:before{
+    content: '';
+    display: block;
+    height: 44px;  /*height of icon */
+    width: 44px;  /*width of icon */
+    position: relative;
+      /*where to replace the icon */
+    top: -7px;
+    left: 0px;
+      /*background */
+    background: url(../img/web-design-ui/creativity.png) no-repeat 0px 0px;
+    float: right;
+}
+
+
+#mu-design-proces .content-proces.fore-box-process h3:before{
+    content: '';
+    display: block;
+    height: 44px;  /*height of icon */
+    width: 44px;  /*width of icon */
+    position: relative;
+      /*where to replace the icon */
+    top: -7px;
+    left: 0px;
+      /*background */
+    background: url(../img/web-design-ui/process-email.png) no-repeat 0px 0px;
+    float: right;
+}
+
+
+
+
+#mu-design-proces .con-deisgn-head {
+    width: 400px;
+    border-bottom: 4px solid #ffffff;
+}
+
+#mu-design-proces .ui-process-para {
+    width: 450px;
+    margin-top: 20px
+}
+
+#mu-design-proces .ui-process-para p {
+    color:#ffffff;
+}
+
+
+
+
+/*--------------------------------------------------------------
+     stop-solution-section-section
+--------------------------------------------------------------*/
+
+
+
+#stop-solution-section {
+    background-image: url(../img/web-design-ui/stop-solution-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#stop-solution-section {
+    padding: 5% 0px 3% 0px;
+}
+
+#stop-solution-section .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+}
+
+.video-section {
+    background-color: #25344c;
+   }
+
+.mu-vieo {
+margin-top: -70px;
+margin-bottom:50px; 
+}
+
+#stop-solution-section .muser-main-heading h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 80px;
+
+}
+
+
+#stop-solution-section .box {
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 0 10px 40px 10px;
+    text-align: center;
+}
+
+
+#stop-solution-section h4.title a {
+    font-size: 28px;
+    font-weight: 900;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    transition: 1s;
+}
+
+#stop-solution-section h4.title a:hover {
+    color:#FB7C47;
+}
+
+#stop-solution-section h4.title{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+#stop-solution-section p.description {
+    color: #ffffff;
+}
+
+#stop-solution-section a.view-stop {
+    background: #FB7C47;
+    padding: 7px 20px;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+     transition: 1s;
+}
+
+#stop-solution-section a.view-stop:hover {
+    background: #ffffff;
+    color:#25334E;
+}
+
+
+
+/*--------------------------------------------------------------
+    Mucollab-detail-section
+--------------------------------------------------------------*/
+
+
+.collab-section {
+    background-image: url(../img/web-design-ui/about-collab-baner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#ui-ux-collab-section {
+    padding: 100px 0px 100px 0px;
+
+}
+
+#ui-ux-collab-section .digital-full-text {
+  text-align: center;
+}
+
+
+#about-collaba {
+    padding: 80px 0;
+   
+
+}
+
+
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 150px;
+}
+
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 60px;
+    margin-top: -20px;
+}
+
+#ux-ui-subscribe-from {
+    background: #FB7C47;
+    padding: 5% 0% 5% 0%;
+} 
+
+
+
+/*--------------------------------------------------------------
+     business-talk-section
+--------------------------------------------------------------*/
+
+
+
+#business-talk-section {
+    padding: 5% 0% 5% 0%;
+}
+
+#business-talk-section {
+
+    background-image: url(../img/web-design-ui/business-talk-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+#business-talk-section  .aboutmu-detail-para p {
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#business-talk-section input.style-filed{
+    background: #25344c;
+    border-color: #25344c;
+    color: #ffffff!important;
+
+}
+
+
+#business-talk-section select.selec-opt {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+
+}
+
+#business-talk-section textarea#exampleFormControlTextarea6 {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+    height: 140px;
+    margin-top: -12px;
+}
+
+.talk-form-btn {
+text-align: center;
+
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm {
+    background: #FB7C47;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border-color: #FB7C47;
+    font-weight: 700;
+    transition: 1s;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm:hover {
+
+    background: #ffffff;
+    color: #25344C;
+    border-color: #25344C;
+}
+
+ 
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width:993px){
+
+
+}
+@media only screen and (max-width:992px){
+
+
+}
+@media only screen and (min-width:300px) and (max-width: 768px) {
+
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+#design-ui-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 35px;
+
+}
+#design-ui-main {
+    padding-top: 158px;
+    padding-bottom: 60px;
+}
+
+
+
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 80px;
+}
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 50px;
+    margin-top: -20px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services, .btn-get-started {
+
+  font-size: 16px;
+  padding: 15px 34px;
+}
+
+
+}
+
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+
+
+
+#about-collab-section .digital-text h2 {
+      font-size: 120px;
+      line-height: 140px;
+}
+
+
+}
+
+@media only screen and (min-width:769px) and (max-width: 992px) {
+
+
+
+#about-collab-section .digital-text h2 {
+      font-size: 90px;
+      line-height: 120px;
+}
+
+}
+

@@ -1,0 +1,371 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,500,700,900&display=swap');
+
+.container-fluid {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+#aboutmu-main {
+  padding-top: 200px;
+    padding-bottom: 70px;
+} 
+
+.mu-aboutmu-bg {
+       background-image: url('../img/about/mission-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#aboutmu-main .nav-logo img {
+    text-align:center;
+}
+
+
+img {
+	max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+     vision&mission-section
+--------------------------------------------------------------*/
+
+#miss-sec {
+    padding:3% 0% 0% 0%;
+}
+
+
+.visn-bg {
+ background-color: #fb7c47;
+}
+
+.mis-text h1 {
+    font-size: 120px;
+    font-weight: 900;
+    font-family: "Rubik"!important;
+    color: #ffffff;
+    text-transform: uppercase;
+    line-height: 70px;
+}
+
+.mis-text h1 span.visi-text {
+    color: #ce6539;
+    font-weight: 900;
+    font-size: 70px;
+}
+
+.miss-tex {
+    color: #ffffff;
+    font-size: 13px;
+    font-weight:600;
+
+}
+
+
+
+.focu-logo {
+    padding-top: 85px;
+}
+
+#limit-sec {
+    padding:2% 0% 0% 0%;
+}
+
+.stret-bg {
+    background-color: #f5f5f5;
+}
+
+
+.str-text h2 {
+    font-size: 86px;
+    font-weight: 900;
+    font-family: Rubik!important;
+    text-transform: uppercase;
+    color: #FB7C47;
+}
+.str-text {
+    width: 800px;
+}
+
+.strech-tex p {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+
+.stret-bg {
+ padding-top:3%;
+}
+.bri-bg {
+    padding-top:3%;
+}
+
+
+.lov-text h2 {
+    font-size: 86px;
+    font-weight: 900;
+    font-family: Rubik!important;
+    text-transform: uppercase;
+    color: #FB7C47;
+}
+.lov-text {
+    width: 800px;
+}
+
+.bri-tex p {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+
+
+.leap-text h2 {
+    font-size: 86px;
+    font-weight: 900;
+    font-family: Rubik!important;
+    text-transform: uppercase;
+    color: #FB7C47;
+}
+.leap-text {
+    width: 800px;
+}
+
+.fait-tex p {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.leap-faith img {
+    width: 400px;
+}
+
+
+.leap-faith {
+    text-align: center;
+    padding-top: 19px;
+    padding-bottom: 15px;
+}
+
+
+/*--------------------------------------------------------------
+technologies-images-section
+--------------------------------------------------------------*/
+
+#aboutmu-video-section {
+    padding: 0px 0px 40px 0px;
+}
+
+.technologies-section {
+    background-color: #e26935;   
+}
+
+#aboutmu-technologies-section .mu-vieo {
+margin-top: -70px;
+margin-bottom:50px; 
+}
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+    color: #f38251;
+    text-align: center;
+    font-size: 145px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 165px;
+
+}
+
+
+
+
+
+
+.cod-img img {
+    width: 100%;
+}
+
+
+
+
+
+
+#about-collab-section {
+padding: 100px 0px 70px;
+
+}
+
+#about-collab-section .digital-full-text {
+  text-align: center;
+}
+
+
+#about-collaba {
+    padding: 80px 0;
+   
+
+}
+
+.collab-section {
+    background-image: url(../img/about/collab-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+#about-collab-section .digital-text h2 {
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 150px;
+}
+
+
+#about-collab-section .marketing-text h3 {
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 60px;
+    margin-top: -20px;
+}
+
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width:993px){
+
+
+}
+@media only screen and (max-width:992px){
+
+
+}
+@media only screen and (min-width:300px) and (max-width: 768px) {
+
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+    font-size: 45px;
+    line-height:65px;
+}
+
+
+#about-collab-section .digital-text h2 {
+    font-size: 60px;
+    line-height: 80px;
+}
+
+#aboutmu-main .nav-logo img {
+    text-align: center;
+    width: 36%;
+}
+
+.stret-bg {
+ padding-top:5%;   
+}
+
+.str-text h2 {
+    font-size: 36px;
+   
+}
+
+.leap-text h2 {
+    font-size: 36px;
+}
+
+.lov-text h2 {
+    font-size: 36px; 
+}
+.leap-text {
+    width: 100%;
+}
+
+.lov-text {
+     width:100%;
+}
+.str-text {
+    width:100%;
+}
+
+.mis-text h1 {
+    font-size: 70px;
+    font-weight: 900;
+    font-family: "Rubik"!important;
+    color: #ffffff;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+
+.mis-text h1 span.visi-text {
+   
+    font-size: 50px;
+}
+
+#about-collab-section {
+	padding: 80px 0px 70px;
+}
+
+
+
+#aboutmu-technologies-section {
+    padding: 12% 0% 12% 0%;
+}
+}
+
+
+
+
+#about-collab-section .marketing-text h3 {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 50px;
+    margin-top: -20px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services, .btn-get-started {
+
+  font-size: 16px;
+  padding: 15px 34px;
+}
+
+
+
+
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+
+
+
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+  font-size: 120px;
+  line-height: 140px;
+
+}
+
+#about-collab-section .digital-text h2 {
+      font-size: 120px;
+      line-height: 140px;
+}
+
+
+}
+
+@media only screen and (min-width:769px) and (max-width: 992px) {
+
+
+#about-collab-section .digital-text h2 {
+      font-size: 90px;
+      line-height: 120px;
+}
+
+}
+

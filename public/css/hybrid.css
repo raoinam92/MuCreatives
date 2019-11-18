@@ -1,0 +1,731 @@
+
+#header {
+    height: 75px;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    padding: 0px 0; 
+    position: fixed;
+    left: 0;
+    top: 42;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    background: #ffffff;
+}
+
+#hybrid-main {
+    padding-top: 185px;
+    padding-bottom: 100px;
+}
+
+.mu-hybridimu-bg {
+    background-image: url(../img/hybrid.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#hybrid-main .muser-main-heading{
+    text-align:center;
+}
+
+#hybrid-application-sec{
+    
+    text-align:center;
+    
+}
+
+#hybrid-application-sec .aboutmu-detail-para p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#hybrid-main a.download-btn {
+    border: 4px solid #ffffff;
+}
+
+#hybrid-main .muser-main-heading h1 {
+
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 110px;
+
+}
+
+#hybrid-application-sec .muser-main-heading h2 {
+
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 70px;
+
+}
+
+/*--------------------------------------------------------------
+     Design-Processing-section
+--------------------------------------------------------------*/
+
+
+#hybrid-application-sec {
+    background-color:#25344c;
+    padding-bottom: 5%;
+
+}
+
+
+#hybrid-application-sec .design-proces {
+    text-align: center;
+    margin-top: -53px;
+}
+
+
+#hybrid-application-sec .firs-box-sect {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hybrid-app-img img{
+    
+    padding-top:35px;
+    
+}
+
+.hybrid-app-text{
+    
+    text-align: right;
+    
+}
+
+.hybrid-app-text-right ul, .hybrid-app-text-left ul{
+    
+    color:#fff;
+    list-style-type: none;
+    padding-left:0px;
+    
+}
+
+.hybrid-app-text-right {
+    text-align: left;
+    
+}
+
+.hybrid-app-text-left {
+text-align: right;
+    
+}
+
+.hybrid-app-text-right h4{
+
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-bottom:5px;
+    
+}
+
+.hybrid-app-text-left h4{
+
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    
+}
+
+
+
+.hybrid-app-text-left li:before{
+    content: ".";
+    color: #fb7c47;
+    font-size: 75px;
+    font-family: cursive;
+    line-height: 0px;
+    position: relative;
+    top: -5px;
+    left: 0px;
+}
+
+.hybrid-app-text-right li:before {
+    content: ".";
+    color: #fb7c47;
+    font-size: 75px;
+    font-family: cursive;
+    line-height: 0px;
+    position: relative;
+    top: -5px;
+    left: -4px;
+}
+
+/*--------------------------------------------------------------
+     stop-solution-section-section
+--------------------------------------------------------------*/
+
+
+
+#stop-solution-section {
+    background-color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+#stop-solution-section {
+    padding: 2% 0px 3% 0px;
+}
+
+
+
+#stop-solution-section .aboutmu-detail-para p {
+    font-size: 18px;
+    text-align: center;
+}
+
+#stop-solution-section .muser-main-heading h1 {
+    color: #9dcd00;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 80px;
+
+}
+
+
+.hybrid-code-img img{
+    padding-top: 30px;
+    width:100%;
+    
+}
+
+.hybrid-code-text ul{
+    
+    list-style-type: none;
+    
+}
+
+.hybrid-code-text li:before {
+    content: ".";
+    color: #fb7c47;
+    font-size: 75px;
+    font-family: cursive;
+    line-height: 0px;
+    position: relative;
+    top: 18px;
+    left: -25px;
+}
+
+.hybrid-code-text h4 {
+
+    text-transform: uppercase;
+    font-size:24px;
+    font-weight: 900;
+    line-height:20px;
+    margin-bottom:5px;
+    color: #4a4f5a;
+}
+
+#stop-solution-section {
+    background-image: unset;    
+}
+
+#stop-solution-section .aboutmu-detail-para p {
+    color:#212529;
+}
+
+#stop-solution-section .box {
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 0 10px 40px 10px;
+    text-align: center;
+}
+
+
+#stop-solution-section h4.title a {
+    font-size: 28px;
+    font-weight: 900;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    transition: 1s;
+}
+
+#stop-solution-section h4.title a:hover {
+    color:#FB7C47;
+}
+
+#stop-solution-section h4.title{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+
+#stop-solution-section p.description {
+    color: #ffffff;
+}
+
+#stop-solution-section a.view-stop {
+    background: #FB7C47;
+    padding: 12px 20px;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+     transition: 1s;
+    border-radius: 5px;    
+}
+
+.hybrid-code-text{
+    margin-bottom:35px;
+}
+
+#stop-solution-section a.view-stop:hover {
+   background: #FB7C47;
+    color:#fff;
+    
+}
+
+
+
+/*--------------------------------------------------------------
+    Mucollab-detail-section
+--------------------------------------------------------------*/
+
+
+.collab-section {
+    background-image: url(../img/digital-marketing/dm-brand-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#ui-ux-collab-section {
+    padding: 100px 0px 100px 0px;
+
+}
+
+#ui-ux-collab-section .digital-full-text {
+  text-align: center;
+}
+
+
+#about-collaba {
+    padding: 80px 0;
+   
+
+}
+
+
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 150px;
+}
+
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 60px;
+    margin-top: -20px;
+}
+
+#ux-ui-subscribe-from {
+    background: #FB7C47;
+    padding: 5% 0% 5% 0%;
+} 
+
+
+
+/*--------------------------------------------------------------
+     business-talk-section
+--------------------------------------------------------------*/
+
+
+
+#business-talk-section {
+    padding: 5% 0% 5% 0%;
+}
+
+#business-talk-section {
+
+    background-image: url(../img/digital-marketing/talk-business.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+#business-talk-section  .aboutmu-detail-para p {
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#business-talk-section input.style-filed{
+    background: #25344c;
+    border-color: #25344c;
+    color: #ffffff!important;
+
+}
+
+
+#business-talk-section select.selec-opt {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+
+}
+
+#business-talk-section textarea#exampleFormControlTextarea6 {
+    background: #25344c;
+    border-color: #25344c;
+    color: #f0f0f0;
+    height: 140px;
+    margin-top: -12px;
+}
+
+.talk-form-btn {
+text-align: center;
+
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm {
+    background: #FB7C47;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border-color: #FB7C47;
+    font-weight: 700;
+    transition: 1s;
+}
+
+#business-talk-section button.btn.btn-primary.btn-sm:hover {
+
+    background: #ffffff;
+    color: #25344C;
+    border-color: #25344C;
+}
+
+ 
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width:993px){
+
+
+}
+@media only screen and (max-width:992px){
+
+
+}
+@media only screen and (min-width:300px) and (max-width: 767px) {
+
+/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+#hybrid-main .muser-main-heading h1 {
+
+   
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 32px;
+
+}
+    
+    #hybrid-application-sec .muser-main-heading h2 {
+
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 32px;
+
+}
+    
+    #business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: 700;
+    color: #ffffff;
+}
+    
+    #stop-solution-section .muser-main-heading h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 35px;
+}
+    
+#hybrid-main {
+    padding-top: 158px;
+    padding-bottom: 60px;
+}
+
+
+#aboutleader-section .muser-main-heading h1 {
+    color: #fb7c47;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 70px;
+
+}
+
+
+.mu-vieo {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#aboutmu-video-section .muser-main-heading h1 {
+    color: #344561;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 65px;
+
+}
+
+
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 38px;
+
+}
+
+
+
+
+
+
+#ui-ux-collab-section .digital-text h2 {
+    font-size: 38px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 38px;
+}
+
+#ui-ux-collab-section .marketing-text h3 {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 50px;
+    margin-top: -20px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services, .btn-get-started {
+
+  font-size: 16px;
+  padding: 15px 34px;
+}
+
+
+}
+
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+
+#aboutmu-main .muser-main-heading h1 {
+  font-size: 120px;
+  line-height: 140px;
+}
+
+#aboutleader-section .muser-main-heading h1 {
+  font-size: 120px;
+  line-height: 140px;
+}
+
+#aboutmu-video-section .muser-main-heading h1 {
+      font-size: 100px;
+      line-height: 120px;
+}
+.mu-vieo {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+  font-size: 120px;
+  line-height: 140px;
+
+}
+
+#about-collab-section .digital-text h2 {
+      font-size: 120px;
+      line-height: 140px;
+}
+
+
+}
+
+@media only screen and (min-width:768px) and (max-width: 992px) {
+    
+    
+.hybrid-code-text h4 {
+
+    text-transform: uppercase;
+    font-size:16px;
+    font-weight: 700;
+    line-height:16px;
+    margin-bottom:5px;
+}
+    .iphone-code-text p {
+
+    font-size:12px;
+
+}
+    
+        .hybrid-code-text ul li {
+
+    margin-top:-35px;
+
+}
+    .hybrid-app-text-right h4{
+
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 11px;
+    text-transform: uppercase;
+    margin-bottom:5px;
+    
+}
+
+.hybrid-app-text-left h4{
+
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 11px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    
+}
+    
+        
+    .hybrid-app-text-right p{
+
+    font-size: 9px;
+
+    
+}
+
+.hybrid-app-text-left p{
+
+    font-size: 9px;
+
+    
+}
+    
+
+#aboutmu-main .muser-main-heading h1 {
+  font-size: 90px;
+  line-height: 120px;
+}
+
+#aboutleader-section .muser-main-heading h1 {
+  font-size: 90px;
+  line-height: 115px;
+}
+
+#aboutmu-video-section .muser-main-heading h1 {
+      font-size: 75px;
+      line-height: 120px;
+}
+.mu-vieo {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+#aboutmu-technologies-section .muser-main-heading h1 {
+  font-size: 90px;
+  line-height: 115px;
+
+}
+
+#about-collab-section .digital-text h2 {
+      font-size: 90px;
+      line-height: 120px;
+}
+    
+
+    
+    
+    .socila-img-girl img{
+        
+        width:100%;
+        
+    }
+    
+    #business-talk-section .talk-heading h2 {
+    text-align: center;
+    font-size: 50px;
+    line-height: 55px;
+    font-weight: 700;
+    color: #ffffff;
+}
+    
+    #digital-marketing-main .muser-main-heading h1 {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 55px;
+}
+    
+    #stop-solution-section .muser-main-heading h1 {
+    color: #9dcd00;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 55px;
+}
+    
+
+}
+
+@media only screen and (min-width:993px) and (max-width: 1199px) {
+    
+
+    
+}
+

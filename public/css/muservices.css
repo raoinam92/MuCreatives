@@ -1,0 +1,554 @@
+
+img {
+
+	max-width: 100%;
+
+}
+
+#muservice-main {
+
+	padding-top: 250px;
+
+	padding-bottom: 40px;
+
+}
+
+.mu-services-bg {
+
+	background-image: url('../img/muservices-bg.jpg');
+
+	background-size: cover;
+
+	background-repeat: no-repeat;
+
+	background-position: top center;
+
+}
+
+#muservice-main .muser-main-heading {
+
+	text-align: center;
+
+}
+
+#muservice-main .muser-main-heading h1 {
+
+	color: #fb7c47;
+
+	font-family: "Exo 2";
+
+	font-size: 215px;
+
+	font-weight: bold;
+
+	text-transform: uppercase;
+
+	line-height: 215px;
+
+}
+
+.services-icon-section {
+
+	background-image: url('../img/services-icon-bg.jpg');
+
+	background-size: cover;
+
+	background-repeat: no-repeat;
+
+	background-position: top center;
+
+}
+
+/*--------------------------------------------------------------
+# MUservices-detail-section
+--------------------------------------------------------------*/
+
+#muservices-detail-section {
+
+	padding: 60px 0px 60px 0px;
+
+}
+
+#muservices-detail-section .detail-icon img {
+
+	width: 350px;
+
+}
+
+#muservices-detail-section .sevice-heading-para {
+
+	padding-top: 80px;
+
+}
+
+#muservices-detail-section .serv-heading h2 {
+
+	font-weight: 900;
+
+	color: #ffffff;
+
+	font-size: 40px;
+
+	line-height: 50px;
+
+	text-transform: uppercase;
+
+}
+
+#muservices-detail-section .services-detail-para p {
+
+	color: #ffffff;
+
+	font-size: 16px;
+
+	line-height: 20px;
+
+}
+
+#muservices-detail-section .d-inline {
+
+	padding-right: 40px;
+
+}
+
+#muservices-detail-section .d-inline a {
+
+	color: #ffffff;
+
+	font-weight: bold;
+
+	text-transform: uppercase;
+
+	font-size: 14px;
+
+	line-height: 40px;
+
+}
+
+/*--------------------------------------------------------------
+#muservices-digital-section
+--------------------------------------------------------------*/
+
+#muservices-digital-section {
+
+	padding: 60px 0px 80px 0px;
+
+}
+
+.digital-marketting-section {
+
+	background-image: url('../img/Digital-bg.jpg');
+
+	background-size: cover;
+
+	background-repeat: no-repeat;
+
+	background-position: top center;
+
+}
+
+#muservices-digital-section .digital-text h2 {
+
+	font-size: 135px;
+
+	text-transform: uppercase;
+
+	font-weight: 900;
+
+	color: #ffffff;
+
+	line-height: 150px;
+
+}
+
+#muservices-digital-section .marketing-text h2 {
+
+	font-size: 135px;
+
+	text-transform: uppercase;
+
+	font-weight: 900;
+
+	color: #fb7c47;
+
+	line-height: 150px;
+
+	margin-top: -55px;
+
+}
+
+#muservices-digital-section .services-detail-para p {
+
+	color: #ffffff;
+
+	font-size: 16px;
+
+	line-height: 20px;
+
+}
+
+#muservices-digital-section .d-inline {
+
+	padding-right: 40px;
+
+}
+
+#muservices-digital-section .d-inline a {
+
+	color: #ffffff;
+
+	font-weight: bold;
+
+	text-transform: uppercase;
+
+	font-size: 14px;
+
+	line-height: 40px;
+
+}
+
+#muservices-digital-section .Reachus-btn {
+
+	margin-top: -50px;
+
+}
+
+/*--------------------------------------------------------------
+#Corporate-services-section
+--------------------------------------------------------------*/
+
+#corporate-services-section {
+
+	padding: 60px 0px 80px 0px;
+
+}
+
+.corporate-section {
+
+	background-image: url('../img/corporate-img.jpg');
+
+	background-size: cover;
+
+	background-repeat: no-repeat;
+
+	background-position: 0px;
+
+}
+
+#corporate-services-section .corporate-text h2 {
+
+	font-size: 135px;
+
+	text-transform: uppercase;
+
+	font-weight: 900;
+
+	color: #fb7c47;
+
+	line-height: 150px;
+
+}
+
+#corporate-services-section .services-text h2 {
+
+	font-size: 135px;
+
+	text-transform: uppercase;
+
+	font-weight: 900;
+
+	color: #fb7c47;
+
+	line-height: 150px;
+
+	margin-top: -55px;
+
+}
+
+#corporate-services-section .services-detail-para p {
+
+	color: #ffffff;
+
+	font-size: 16px;
+
+	line-height: 20px;
+
+}
+
+#corporate-services-section .Reachus-btn {
+
+	margin-top: -50px;
+
+}
+
+/*--------------------------------------------------------------
+Responsive style sheet of services page
+--------------------------------------------------------------*/
+
+@media only screen and (min-width: 993px) {
+
+	.tab-desk-hide {
+
+		display: none;
+
+	}
+
+}
+
+@media only screen and (max-width: 992px) {
+
+	.mob-tab-hide {
+
+		display: none;
+
+	}
+
+}
+
+@media only screen and (min-width: 300px) and (max-width: 768px) {
+
+	/*--------------------------------------------------------------
+first section-CSS 
+--------------------------------------------------------------*/
+
+	.services-detail-sec {
+
+		padding-bottom: 50px;
+
+	}
+
+	#muservice-main .muser-main-heading h1 {
+
+		font-family: "Exo 2";
+
+		font-size: 60px;
+
+		line-height: 90px;
+
+	}
+
+	/*--------------------------------------------------------------
+muservices-detail-section
+--------------------------------------------------------------*/
+
+	.detail-icon {
+
+		text-align: center;
+
+	}
+
+	#muservices-detail-section .d-inline {
+
+		padding: 10px;
+
+	}
+
+	#muservices-detail-section .detail-icon img {
+
+		width: 200px;
+
+	}
+
+	#muservices-detail-section .sevice-heading-para {
+
+		padding-top: 20px;
+
+	}
+
+	#muservices-detail-section .serv-heading h2 {
+
+		font-size: 30px;
+
+		line-height: 40px;
+
+	}
+
+	#muservices-detail-section .serv-heading {
+
+		text-align: center;
+
+	}
+
+	#muservices-detail-section .services-detail-para {
+
+		text-align: center;
+
+	}
+
+	/*--------------------------------------------------------------
+muservices-digital-section
+--------------------------------------------------------------*/
+
+	#muservices-digital-section .digital-text h2 {
+
+		font-size: 50px;
+
+		line-height: 60px;
+
+		text-align: center;
+
+	}
+
+	#muservices-digital-section .marketing-text h2 {
+
+		font-size: 40px;
+
+		line-height: 60px;
+
+		margin-top: -30px;
+
+		text-align: center;
+
+	}
+
+	#muservices-digital-section .digital-img {
+
+		text-align: center;
+
+	}
+
+	#muservices-digital-section .Reachus-btn {
+
+		margin-top: 30px;
+
+		text-align: center;
+
+	}
+
+	#muservices-digital-section .digital-full-text {
+
+		text-align: center;
+
+	}
+
+	/*--------------------------------------------------------------
+corporate-services-section
+--------------------------------------------------------------*/
+
+	#corporate-services-section .corporate-text h2 {
+
+		font-size: 50px;
+
+		line-height: 60px;
+
+		text-align: center;
+
+	}
+
+	#corporate-services-section .services-text h2 {
+
+		font-size: 40px;
+
+		line-height: 60px;
+
+		margin-top: -30px;
+
+		text-align: center;
+
+	}
+
+	#corporate-services-section .corporate-btn {
+
+		margin-top: 30px;
+
+		text-align: center;
+
+	}
+
+	#corporate-services-section .corporate-full-text {
+
+		text-align: center;
+
+	}
+
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1199px) {
+
+	#muservices-detail-section .detail-icon img {
+
+		width: 300px;
+
+		padding-top: 40px;
+
+	}
+
+	#muservices-digital-section .Reachus-btn {
+
+		margin-top: 0px;
+
+	}
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+
+	#muservice-main .muser-main-heading h1 {
+
+		font-size: 115px;
+
+		line-height: 135px;
+
+	}
+
+	#muservices-detail-section .sevice-heading-para {
+
+		padding-top: 0px;
+
+	}
+
+	.services-detail-sec {
+
+		padding-bottom: 50px;
+
+	}
+
+	#muservices-digital-section .Reachus-btn {
+
+		margin-top: 30px;
+
+	}
+
+	#muservices-digital-section .digital-text h2 {
+
+		font-size: 80px;
+
+		line-height: 100px;
+
+	}
+
+	#muservices-digital-section .marketing-text h2 {
+
+		font-size: 80px;
+
+		line-height: 100px;
+
+		margin-top: -50px;
+
+	}
+
+	#corporate-services-section .corporate-text h2 {
+
+		font-size: 80px;
+
+		line-height: 100px;
+
+	}
+
+	#corporate-services-section .services-text h2 {
+
+		font-size: 80px;
+
+		line-height: 100px;
+
+		margin-top: -50px;
+
+	}
+
+	#corporate-services-section .corporate-btn {
+
+		margin-top: 40px;
+
+	}
+
+}
