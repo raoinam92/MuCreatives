@@ -77,9 +77,11 @@ Intro Section
 <img src="{{ asset('./img/serv-icon/Website-development-icon.png')}}">
 </div>
 <div class="design-process-heading">
-<h2>Precision-Coded Customer Software Development</h2> 
+<h2>Custom Software Development Services</h2> 
 <div class="desi-proce-para"> 
-<p>Dev Technosys is a renowned custom software development firm developing business-focused solutions that astutely match with the functional and service preferences of our clients. Our expert custom development services engage with the most eligible ideas and authentic practices to create solutions that reveal excellence. Our process of development is well-approved by standard industry policies and is mated with best of quality assurance traits to create most value-defining software programs that know best serve your business intent and purpose.</p> 
+<p>We provide end-to-end custom software and mobile application development services. From in-depth inquiry of your business to coding up applications and from user training to maintaining applications, we advise on what advancements to put resources into, what specialized design to pick, as well as consult the best way to accomplish the necessary degree of information security.
+By applying modern design principles, related to the most recent in the cloud, mobile, and desktop technologies, we make customized arrangements that interface colleagues with one another and organizations with their clients. Our ability as custom software development company lies over all verticals - be it IoT, AI, Blockchain or Big Data, we offer solutions to all businesses including Real Estate, Healthcare, education, entertainment, and others. MavenUp Creatives provides a wide range of custom software development services and help in creating business-centered solutions that competently coordinate with the functional and service preferences of our clients.
+</p> 
 </div>
 </div>
 </div>
@@ -174,12 +176,12 @@ ecommerce video intro
 <div class="row responsive-dev-img">
 <div class="col-lg-12">
 <div class="dev-ecomm-heading">
-<h2>Web Development is a Creative Edge at MavenUp</h2>
+<h2>Custom software for your evolving business needs</h2>
 </div>
 </div>
 <div class="col-lg-6">
     <div class="desi-proce"> 
-<p>MavenUp experts design each website with after having a full on conversation with our clients. We want to know more about your perceptions as to how to present your profile and business. Then our creative team will put all its efforts into creating a web design that is unique and yet captivating with logos, design, theme, and usability. The WordPress Development in New York is important as much as the affordable web design for NYC clients. </p> 
+<p>As a custom software development company in Pakistan, MavenUp Creatives understands one of a kind needs and solves the difficulties of your business by building custom applications. The software that we create has user-friendly interfaces and runs effectively. Our workers ace the advancement of CRM, ERM, EAM, and SCM devices, just as other corporative products. By choosing custom software development from our company, you'll appreciate various favorable circumstances of a custom system, custom-made for your business.</p> 
 </div>
 </div>
 <div class="col-lg-6">
@@ -220,21 +222,21 @@ ecommerce video intro
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
                 <h2>Software Product Development</h2>
-                <p>Your complex value creation ideas of a technology product meet the world-class alliance of most reliable engineering and sophisticated technologies to build you a powerful software product – well defined and derived to transform your valuable concepts into a diligent program driven by most diligent custom software services that are meant to deliver!</p>
+                <p>We can assist you with making software products that increase the value of your clients. MavenUp Creatives will help you recognize the rising trends and comprehend the market requirements. Our software development team helps translate these insights into innovations and find the most reliable designing and complex advances to construct you an amazing software product that can help you gain a competitive advantage.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Software Enhancement and Modernization</h2>
-                <p>At Dev Technosys, we have helped multi-generation businesses to upgrade and scale their legacy systems with the latest software augmentation services. Allowing them to leverage latest tech possibilities and innovative trends, through expert custom software design solutions aiming clinical up-gradation! That’s one of the reasons that make us top software development companies in USA.</p>
+                <h2>Software Upgrade and Modernization</h2>
+                <p>Businesses must innovate to remain significant. Our group of specialists has helped several businesses to overhaul and scale their legacy systems with the latest software programming advancements. We assist you with renewing your legacy programs by looking into its special architecture, relocating it to more up to date stages, enhancing it with new highlights and improving its UI and UX, just as adjusting it with modern digital requirements.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Project Recovery Solutions</h2>
-                <p>Some projects fall apart in the midway. The sure culprits are mediocre services with rickety support programs. Well, we understand how painful it is. And as an experienced custom software company we are all equipped to get you out of your mess with our expert project recovery solutions, lead by software recovery and reinstating experts.</p>
+                <h2>Advanced Web Applications</h2>
+                <p>MavenUp Creatives has a practical experience in making propelled web applications with the most advanced technology that can help take your business to the next level. Our specialists handle design, prototype, development, execution, and backing of your web solution according to your business needs.</p>
             </div>
         </div>
     </div>
@@ -243,21 +245,21 @@ ecommerce video intro
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
                 <h2>Enterprise Software Development</h2>
-                <p>As a prominent custom software development company, we have helped businesses to acquire most resourceful enterprise solutions to tech-automated their departments and processes. This helped them run their operations and control their functions with great efficacy. Making them optimize their enterprise TAT and improve their performance bottom line to a great extent.</p>
+                <p>As the business sectors have become progressively competitive, it is significant for your technology to give you the right advantage. MavenUp empowers this advantage by adjusting new-age advancements to your business methodology. As a noticeable custom software development organization in Pakistan, we work with various enterprise technologies to give exceptionally modified, versatile and incorporated solutions to digitally transform your business.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Third-party Customization</h2>
-                <p>Nothing in this dynamic world can work in a silo. Even standalone products with constrained service scope require teaming-up with extended service plug-ins and APIs at some point in time. Our third-party integration services cover every aspect of it allying various go-between components, resources, and services with your software solution.</p>
+                <h2>Third-party Applications</h2>
+                <p>In addition to building software from scratch, MavenUp Creatives can support or take over solutions from third-party merchants. We start by benchmarking the application's quality, so you have a clear picture of what it needs and how to get there. Our third-party integration services cover every aspect of components and resources with your software solution.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Software Maintenance Services</h2>
-                <p>As a full-service software development solutions company, we are pledged to provide post-deployment support to our clients, allowing them to use and benefit from the solution they have acquired after investing almost a fortune. Our software maintenance services allow them to avail great functioning and uptime results with their product. </p>
+                <h2>Software Maintenance and Support</h2>
+                <p>We are a full-service software development solutions company and serve our clients with end to end solutions. From development to maintenance and post-delivery support, our customers have a chance to get an end to end special support from our experts. Maintenance services that we provide can cut off your expenses ensuring the right execution of your system.</p>
             </div>
         </div>
     </div>
@@ -371,9 +373,9 @@ ecommerce video intro
 <div class="row">
 <div class="col-md-12 text-center">
 <div class="design-process-heading">
-<h2>CUSTOM SOFTWARE SERVICES VERTICALS WE SERVE</h2> 
+<h2>Custom Software Services Verticals We Serve</h2> 
 <div class="desi-proce-para"> 
-<p>With our profound knowledge and expertise on versatile technology aspects, we take active participation in developing impactful and useful Software Product for various industrial sectors. With the aid of our determinable efforts we evolved as the best software development companies in USA, that have conquered an amazing opportunity to serve our services in variegated industrial spectra, some of which are: </p> 
+<p>Our services are intended to take your business to the top level, decreasing the hole among you and the statures of accomplishment you wish to achieve. MavenUp Creatives has built up itself as a leading name in giving remarkable technology solutions and services that consistently stick to internationally perceived measures and most advanced technology patterns. Through our contributions, we assist companies in accomplishing their business targets. Some of our offerings are,</p> 
 <br>
 </div>
 
@@ -387,7 +389,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Retail and Ecommerce</h2>
                 <hr>
-                <p>We have a long past working with retail businesses and have served many units to excel their performance capacity with best-in-class software products to offer them leading advantage in their operative domain. And that goes as efficiently with the new age businesses seeking e-commerce excellence. </p>
+                <p>We develop retail applications intended to help retail organizations over an assortment of stages, frameworks, and associated channels. Our software designers assist retailers to create engaging and effective touchpoints with their clients, guaranteeing smooth exchanges and long-term connections. Furthermore, that goes proficiently with the new age businesses looking for e-commerce excellence.</p>
                     
             </div>
         </div>
@@ -395,7 +397,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>E-Learning</h2>
                 <hr>
-                <p>The online learning space is on an incredible expansion spree. You can see many popular apps for remote learning, certification and skill training coming into mainstream coaching. We are onto it fully and can get you the most of software technology aptitude in achieving your e-learning product goals.</p>
+                <p>The online learning space is on an amazing development binge. As we can see numerous well-known applications for remote learning, certification and skill training coming into standard coaching, we are onto it completely and can get you a large portion of software innovation in accomplishing your e-learning product goals.</p>
                     
             </div>
         </div>
@@ -403,7 +405,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Business Applications</h2>
                 <hr>
-                <p>We are among the first choice of modern businesses looking to build advanced software applications to help them strike automation and digitization with workflow management, user communication and service offerings – best suiting their bespoke! </p>
+                <p>We design, and uphold custom software business applications that help you solve your toughest problems, fit flawlessly into your existing progressions and yield measurable results for your business. We also develop advanced business applications and evaluate numerous mobility platforms to choose the most suitable options, as per the needs of the business. </p>
                     
             </div>
         </div>
@@ -413,7 +415,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Travel & Tourism</h2>
                 <hr>
-                <p>With our all-round customer service programs for booking, availability check, travel check-ins, ticket buying, itinerary management, commissions, concierge services, accounting, and so more, you can well avail end-to-end software solutions and allied services to automate and optimize your Travel & Tourism business. </p>
+                <p>We create modern applications for travel agencies, booking gateways, tour operators and other travel associations. Our solutions are consumer confronting and easy to understand as they are structured by the customer's business needs and the most recent patterns in travel software development to advance your Travel and Tourism business.</p>
                     
             </div>
         </div>
@@ -421,7 +423,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Logistics & Transport</h2>
                 <hr>
-                <p>Our proficiency in building solutions in the segment of Logistics & Transport is backed by many successful stories of our clients. We have served over a dozen niches and sub-segments in the domain helping traditional businesses to optimize their operations and augment their course of revenue and returns. </p>
+                <p>Just like every modern industry, transportation and logistics are changing quickly as they move into the digital era. So, to lead the way, logistics firms must put resources in software programming frameworks to computerize processes and enhance task effectiveness and adaptability. We plan, make, and keep state of the art custom software systems for logistics and transportation industry organizations across the country.</p>
                     
             </div>
         </div>
@@ -429,7 +431,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Media & Entertainment</h2>
                 <hr>
-                <p>The competitive domain of Media & Entertainment is always on a move to grab the latest information technology benefits. With our ever-advanced and progressive custom software development services, we help our clients achieve the best of communication and service value, leaving their competition behind.</p>
+                <p>Organizations nowadays should use latest technologies to transform their way of creating and delivering content as a new era of media and entertainment is driven by digital technologies. We can see how the media industry is evolving. So, from video advertising to digital distribution, we master all kinds of software development skills to help you deliver new experiences, crafted for a digital-first world.</p>
                     
             </div>
         </div>
