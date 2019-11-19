@@ -9,7 +9,7 @@
     transform: scale(1.02);
 }
 .web-services {
-    text-align: center;
+    text-align: justify;
     color: #fff;
     border: solid 1px #fb7c47;
     box-shadow: 5px 5px 20px #2f2f2f;
@@ -79,7 +79,7 @@ Intro Section
 <div class="design-process-heading">
 <h2>Custom Software Development Services</h2> 
 <div class="desi-proce-para"> 
-<p>We provide end-to-end custom software and mobile application development services. From in-depth inquiry of your business to coding up applications and from user training to maintaining applications, we advise on what advancements to put resources into, what specialized design to pick, as well as consult the best way to accomplish the necessary degree of information security.</p>
+<p>We provide end-to-end <b>custom software and mobile application development services</b>. From in-depth inquiry of your business to coding up applications and from user training to maintaining applications, we advise on what advancements to put resources into, what specialized design to pick, as well as consult the best way to accomplish the necessary degree of information security.</p>
 
 <p>By applying modern design principles, related to the most recent in the cloud, mobile, and desktop technologies, we make customized arrangements that interface colleagues with one another and organizations with their clients. Our ability as custom software development company lies over all verticals - be it IoT, AI, Blockchain or Big Data, we offer solutions to all businesses including Real Estate, Healthcare, education, entertainment, and others. MavenUp Creatives provides a wide range of custom software development services and help in creating business-centered solutions that competently coordinate with the functional and service preferences of our clients.
 </p> 

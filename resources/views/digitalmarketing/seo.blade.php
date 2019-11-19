@@ -68,7 +68,7 @@ h2.seo-brand {
                   <h2 class="seo-brand">Brand Your Business with our Most Affordable SEO Strategies!</h2>
                   <h2 class="soc-net">Search Engine Optimization</h2> 
                    <div class="desi-proce-para">             
-                  <p>The global digitalization has led organizations to shift towards having a digital presence, and the number of mobile and web users are still growing significantly, which has ultimately created a battle between organizations to grow in a way that it becomes easier for them to achieve a reasonable market share in this digital world. MavenUp Creatives is a veteran <b>Michigan based SEO Company</b>, and is an ideal choice to market your products or services to the digital world. With successfully helping thousands of customers achieving their goals, we stand tall in offering our expert services to upbringing further opportunities for clients. There are many search engines, and Google tops over them, having a monthly traffic of over billion people. Google has a set standard of principles or algorithms to rank websites, and whosoever, strongly follows the rules, will definitely benefit from Google’s rankings. MavenUp Creatives proudly has an explicit command in Google algorithms, and will help you improve your search engine rankings within a small period of time.</p>
+                  <p>SEO (search engine optimization) focuses on improving the ranking of a company website in SERPs (search engine results pages). SEO is all about making a long-term investment in your online visibility. Through a combination of technical expertise, creative content and digital PR, we pick the most ideal key phrases that we believe can get the chance to Page 1 of Google in the quickest time which will accomplish the most amount of organic traffic to your website and will help you to unlock your online potential. Our <b>SEO experts in Lahore</b> utilize technical insights and innovative speculations to help you and your site progress. We have the profound technical expertise required to get underneath the skin of your website and adjust it for maximum search engine visibility. Solid backlinks to your website are a significant focal point of any SEO campaign. We offer intensive keyword research, organizing the terms most utilized by your audience to guarantee the best outcome. Being a well-established <b>digital marketing agency in Pakistan</b>, we focus on your site, optimizing it to climb the ladder in search results, helping you reach a wider audience. Your website is an incredible tool and speaks to an interest all by itself. However, it must be made promptly accessible to your potential clients to genuinely amplify its worth. We give a progressive level of transparency into our activities from backlink securing to on page enhancement, so you can trust us to get the job done.</p>
                 </div>
 
                  <div class="stop-btn">
@@ -94,12 +94,10 @@ h2.seo-brand {
                 <div class="prcess">
                     <div class="title-animationindustries">the process</div>
                     <!--<h2>the process</h2>-->
-                    <h2 class="seo-brand">Your Best Partners in Success with Ethical SEO Services</h2>
+                    <h2 class="seo-brand">Your best partners in success with best ethical SEO services</h2>
                     </div>
                     <div class="prcess-text">
-                    <p>Maven Websol unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-tore veritatis et quasi architecto or sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-</p>
+                    <p>MavenUp Creatives brings high quality & affordable <b>SEO services in Pakistan</b> to meet your online marketing requirements. We focus on assisting clients in boosting their website visibility, traffic and ranking through effective targeted search terms for top search engines which includes Google, Bing and Yahoo.</p>
                     </div>
             
             </div>
@@ -208,8 +206,8 @@ tore veritatis et quasi architecto or sit amet, consectetur adipiscing elit, sed
                     
                     <div class="tab-pane" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                         <div class="box-tab">
-                            <h2>Works Goals</h2>
-                            <p>Our experienced marketing consultants work with you to define your digital marketing goals, developing an initial platform to start strategizing your SEO plan.</p>
+                            <h2>Work Goals</h2>
+                            <p>Our accomplished advertising experts work with you to characterize your digital marketing objectives, building up an underlying stage to begin organizing your SEO plan.</p>
                         </div>
                         </div>
                         
@@ -217,56 +215,56 @@ tore veritatis et quasi architecto or sit amet, consectetur adipiscing elit, sed
                         <div class="tab-pane" id="number-three" role="tabpanel" aria-labelledby="number-three-tab">
                         <div class="box-tab">
                             <h2>Competitive Analysis</h2>
-                            <p>Auditing your competitors’ actions is a proven way to distinguish your unique value proposition. This also helps our SEO team highlight your business’ strengths while staying tuned to the competitive landscape of your industry.</p>
+                            <p>Evaluating activities of your competitors is a proven method to recognize your unique value proposition. This additionally enables our SEO to highlight the powerful features of your business while remaining tuned to the competitive landscape of your industry.</p>
                         </div>
                         </div>
                         
                         <div class="tab-pane" id="number-four" role="tabpanel" aria-labelledby="number-four-tab">
                         <div class="box-tab">
                             <h2>Keyword Research</h2>
-                            <p>This critical phase involves an in-depth analysis of popular search terms, combined with insights on how your customers are searching. Our team analyzes search volume, competition and opportunity through a host of keyword tools that allow our team to uncover growth opportunities for your business and identify the terms that are most valuable for your growth.</p>
+                            <p>Keyword or phrases are utilized by people scanning the web for items and services online. MavenUp Creatives offers thorough keyword research, prioritizing the terms most used by your crowd to guarantee the best results.</p>
                         </div>
                         </div>
                         
                         <div class="tab-pane" id="number-five" role="tabpanel" aria-labelledby="number-five-tab">
                         <div class="box-tab">
-                            <h2>Mapping Optimization</h2>
-                            <p>Our SEO strategists layout how your optimization plan will be implemented. This involves assigning proper key phrases to the appropriate pages on your site. This crucial step ensures your customers find you for when searching for terms relevant to your business, products or services.</p>
+                            <h2>On Site optimization</h2>
+                            <p>Our SEO experts will enhance your website to climb the ladder in search results, helping you get a more extensive crowd. On site optimization incorporates optimizing content, accelerating the loading of your website pages and guaranteeing simple on-site route, so customers can discover your products and services effortlessly.</p>
                         </div>
                         </div>
                         
                         <div class="tab-pane" id="number-six" role="tabpanel" aria-labelledby="number-six-tab">
                         <div class="box-tab">
-                            <h2>Implementation</h2>
-                            <p>Utilizing our research and optimization map, our SEOs apply on-page optimization to your website. We keep track of all changes that we make, which helps our team gauge the effectiveness of our plan.</p>
+                            <h2>Outreach & Digital PR</h2>
+                            <p>Our dynamic outreach strategy emphasizes on a modern way to deal with digital PR, organizing and securing the valuable connects to build enduring links and incredible associations. This methodology attempts to create your site's online power and brand image within your industry.</p>
                         </div>
                         </div>
                         
                         <div class="tab-pane" id="number-seven" role="tabpanel" aria-labelledby="number-seven-tab">
                         <div class="box-tab">
-                            <h2>Monitor Traffic & Rankings</h2>
-                            <p>We monitor how your site is performing by analyzing metrics collected via Google Analytics and Search Console. These insights not only show us how your site is performing, but can also open our eyes to new opportunities or identify failures. It’s not a crystal ball, but it’s pretty close!</p>
+                            <h2>Link building Services</h2>
+                            <p>Our experienced team of marketing professionals provide manual link building services to guarantee the best outcomes as the external links help to drive more traffic to your website from offsite sources, which incorporates different sites and online journals.</p>
                         </div>
                         </div>
                         
                         <div class="tab-pane" id="number-eight" role="tabpanel" aria-labelledby="number-eight-tab">
                         <div class="box-tab">
-                            <h2>Refine SEO Plan</h2>
-                            <p>Using site performance data, we modify our SEO plan and continue to improve your search engine optimization. Studying your analytics data allows us to make adjustments to your optimization and continue to convert visitors into customers.</p>
+                            <h2>Website Audits</h2>
+                            <p>Everything starts with a website review. Our in-house technical experts will guarantee that every single part of your site is evaluated, placing you in the best position for a solid and healthy online presence. This is the initial step on a more extensive SEO venture that will eventually profit your business.</p>
                         </div>
                         </div>
                         
                         <div class="tab-pane" id="number-nine" role="tabpanel" aria-labelledby="number-nine-tab">
                         <div class="box-tab">
                             <h2>Content Creation</h2>
-                            <p>With our content marketing services, our team develops unique content targeted to engage your customers, and perform in the search engines.</p>
+                            <p>Our content makers guarantee our customers to provide proficient, helpful and relevant content that enhances the visitor's experience. Content is crucial in all parts of SEO and is often based on the keywords researched, to guarantee you reach your audience appropriately.</p>
                         </div>
                         </div>
                         
                         <div class="tab-pane" id="number-ten" role="tabpanel" aria-labelledby="number-ten-tab">
                         <div class="box-tab">
                             <h2>Reporting & Refinement</h2>
-                            <p>We continue monitoring and reporting of your site’s performance routinely. This includes checking your analytics data along with your site’s overall health. This allows our team to stay on top of your site’s positioning in the marketplace.</p>
+                            <p>We provide continuous and consistent reports for you to determine the website’s periodical performances. This includes checking your analytics data along with your site’s overall health and it allows our team to stay on top of your site’s positioning in the marketplace.</p>
                         </div>
                         </div>
                    </div>

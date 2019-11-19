@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     @include('Layout.head')
 
 <style>
+.web-services img {
+    max-width: 150px;
+}
 .web-services:hover {
     box-shadow: 5px 5px 20px #fb7c47;
     transform: scale(1.02);
@@ -247,21 +250,21 @@ ecommerce video intro
     <div class="row">
         <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/custom_website_development.png')}}" class="web" alt="Java">
                 <h2>Custom Website Development</h2>
                 <p>MavenUp Creatives is also known for producing credible web development services that respond accurately to corporate concerns. Being one of the top software houses in Pakistan, we help you pave the way for more growth by providing highly secure, flexible and excellent customized websites.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/commerce_solution.png')}}" class="web" alt="Java">
                 <h2>Commerce Solutions</h2>
                 <p>We develop relevant standards and regulations to help the company grow more quickly in the digital marketplace. We strive to find the best custom Web design strategies that can help you control your company’s e-commerce life, so you can meet a huge number of users in one shot.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/enterprise_web app_development.png')}}" class="web" alt="Java">
                 <h2>Enterprise Web App Development</h2>
                 <p>We are a customized web application design company providing top web development in Pakistan and are truly committed in delivering strong quality. We build powerful and strategy-oriented software applications that manage websites efficiently. Our focus is to help companies hit new peaks and manage everyday problems by reaping the benefits of increased accountability, falsifiability and workplace efficiency.</p>
             </div>
@@ -270,21 +273,21 @@ ecommerce video intro
     <div class="row">
         <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/software_product_development.png')}}" class="web" alt="Java">
                 <h2>Software Product Development</h2>
                 <p>We use invincible power of technology to deliver dramatically optimized and system oriented custom web page services with higher performance and security. To be among the finest web designers in Pakistan, we guarantee our services to be flexible and compatible with your business needs.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/frontend_backend_development.png')}}" class="web" alt="Java">
                 <h2>Fronted and Backend Development</h2>
                 <p>Our experts will give your website a high degree of efficacy assuring exceptional productivity, quality, and response. Our fronted layouts have integrated accessibility, reliability and visibility that let you book a commanding position among your adversaries.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/third_party integration_and_customization.png')}}" class="web" alt="Java">
                 <h2>Third-Party Integrations and Customizations</h2>
                 <p>We provide web development services that would guarantee your autonomous performance among competitors. We are specialists in supplying clients with in-depth approaches to comprehensive software architecture and API design implementations.</p>
             </div>
@@ -293,21 +296,21 @@ ecommerce video intro
     <div class="row">
         <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/prototyping_ux_ui.png')}}" class="web" alt="Java">
                 <h2>Prototyping & UI/UX</h2>
                 <p>With a highly qualified staff and being considered the most popular web design company in Pakistan, we master in turning rough drawings into working prototypes according to the client's needs. We provide the best and dynamically splendid websites that make accessibility and interactiveness truly possible.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/upgrade_and_migration.png')}}" class="web" alt="Java">
                 <h2>Up-gradation & Migration</h2>
                 <p>In the domain of conversion or redesign and update, we have a world-class support for your business applications. We help you move all aspects of your plan into upgraded versions by infusing critical technology. We ensure that the core business system is not interrupted at all and open the way to perform strongly.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
-                <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
+                <img src="{{ asset('img/technology_consultation.png')}}" class="web" alt="Java">
                 <h2>Technology Consultancy</h2>
                 <p>With the increasing rate of technological advancements, it has become difficult to find software ideal for your ventures. In order to clarify your needs, our experts will make sure that they outline a whole new range of possibilities for your web-development project.</p>
             </div>
