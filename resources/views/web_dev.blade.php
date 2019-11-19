@@ -106,9 +106,9 @@ Intro Section
 <img src="{{ asset('./img/serv-icon/Website-development-icon.png')}}">
 </div>
 <div class="design-process-heading">
-<h2>Hire Our Web Development Services for Best Virtual Exposure!</h2> 
+<h2>HIRE OUR WEB DEVELOPMENT EXPERTS FOR BEST VIRTUAL EXPOSURE!</h2> 
 <div class="desi-proce-para"> 
-<p>Website Design and Development is much more of a necessity then a luxury adds up nowadays. Each business needs to be presented to the virtual audiences if you want to exist and supersede your competitors. A great website developer in NYC or Chicago is equally in demand. Whether you are selling your products or offering services then you need to reach for online searchers. Bygone are the times when people used to look at newspapers advertisements or the physical outlets were visible. </p> 
+<p>MavenUp Creatives is a renowned web design company in Pakistan. Design and production of the website are much more of a requirement than a privilege. If you want to survive and overtake your rivals, your business should be presented to the online audience.</p> 
 </div>
 </div>
 </div>
@@ -203,12 +203,12 @@ ecommerce video intro
 <div class="row responsive-dev-img">
 <div class="col-lg-12">
 <div class="dev-ecomm-heading">
-<h2>Web Development is a Creative Edge at MavenUp</h2>
+<h2>WEB DEVELOPMENT IS A CREATIVE EDGE AT MAVENUP</h2>
 </div>
 </div>
 <div class="col-lg-6">
     <div class="desi-proce"> 
-<p>MavenUp experts design each website with after having a full on conversation with our clients. We want to know more about your perceptions as to how to present your profile and business. Then our creative team will put all its efforts into creating a web design that is unique and yet captivating with logos, design, theme, and usability. The WordPress Development in New York is important as much as the affordable web design for NYC clients. </p> 
+<p>MavenUp Creatives is a web development company based in Lahore. We design each website after a thorough discussion with clients. Our development team makes every effort to create a special, but fascinating web design with logos, architecture, layout, and versatility, helping you to portray your company profile in the best possible way.</p> 
 </div>
 </div>
 <div class="col-lg-6">
@@ -238,7 +238,7 @@ ecommerce video intro
 <div class="design-process-heading">
 <h2>WEB DEVELOPMENT SERVICES</h2> 
 <div class="desi-proce-para"> 
-<p>There are plentiful of peculiar features that help in making our website development services different from the other out of which some of them are enhanced functions, seamless UX and stunning visuals and many more that can be described as the mandate part of our custom web development. We infuse all the right and standard parameter for making your website lead in this hyper-competitive market place. As a best web development company, we produce highly efficient and result oriented web applications and websites that meets with the business demands of the small businesses, large or medium size. We make it a priority to make your web application highly speedy, efficient and retains your users impressively. </p> 
+<p>Our company possesses various special features that helps to differentiate our development services from others. Smooth UI/UX and amazing graphics are the decree component of our web development and makes us one of the best web development company in Pakistan. As a leading web development agency, we develop extremely efficient and result oriented web applications/websites that fulfill all your business requirements. We prioritize the speed, efficiency and retention of website application, giving the best benchmark to make your website succeed in the digital market.</p> 
 <br>
 </div>
 </div>
@@ -248,22 +248,22 @@ ecommerce video intro
         <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Custom Website Development </h2>
-                <p>We are amongst  the best web development company and is known for producing highly responsive and reliable web development services that cater the modern business needs.  We help you lay the road to achieving greater success by creating empowered development solutions that are highly secured, scalable, excelled and are attuned to deliver high performance. </p>
+                <h2>Custom Website Development</h2>
+                <p>MavenUp Creatives is also known for producing credible web development services that respond accurately to corporate concerns. Being one of the top software houses in Pakistan, we help you pave the way for more growth by providing highly secure, flexible and excellent customized websites.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>eCommerce Solutions</h2>
-                <p>Discover the best custom web development solutions that help in providing a swift passage to business eCommerce life, thus helping you to reach plentiful of the user base in a single run. In this competitive digital marketplace, we at Dev Technosys infuse the appropriate technical standards to help your business grow and evolve at a faster pace.</p>
+                <h2>Commerce Solutions</h2>
+                <p>We develop relevant standards and regulations to help the company grow more quickly in the digital marketplace. We strive to find the best custom Web design strategies that can help you control your company’s e-commerce life, so you can meet a huge number of users in one shot.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Enterprise Web App Development </h2>
-                <p>We are highly customized web application development company that aid your businesses to achieve new heights. With technology as our strong-hold, we have custom developed powerful software solutions that are process-based and helps in effectively managing the websites. We are completely dedicated when it comes to delivering sharpen performance and aid you to scale your everyday business problems while harnessing the benefits of enhanced seamlessness, transparency and employee-productivity.</p>
+                <h2>Enterprise Web App Development</h2>
+                <p>We are a customized web application design company providing top web development in Pakistan and are truly committed in delivering strong quality. We build powerful and strategy-oriented software applications that manage websites efficiently. Our focus is to help companies hit new peaks and manage everyday problems by reaping the benefits of increased accountability, falsifiability and workplace efficiency.</p>
             </div>
         </div>
     </div>
@@ -272,21 +272,21 @@ ecommerce video intro
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
                 <h2>Software Product Development</h2>
-                <p>WOur custom website development services are highly user-centric and process driven. We infuse the unyielding power of technology for creating highly amplified software products that are equipped with enhanced performance and security. Being the best website development company, we ensure to deliver advanced features and make sure that our products are scalable and in -sync with your business specific needs.</p>
+                <p>We use invincible power of technology to deliver dramatically optimized and system oriented custom web page services with higher performance and security. To be among the finest web designers in Pakistan, we guarantee our services to be flexible and compatible with your business needs.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Frontend and Backend Development</h2>
-                <p>Grasp our Custom website design services and ensure a secure, scalable and feature-rich development of your products. We deliver a great level of efficiency and performance into your websites and ensure that it delivers an unparalleled efficiency, performance, and responsiveness. Our frontend designs, are loaded with optimized scalability, security, and transparency thus, helping you reserving a top seat amongst the competitors. </p>
+                <h2>Fronted and Backend Development</h2>
+                <p>Our experts will give your website a high degree of efficacy assuring exceptional productivity, quality, and response. Our fronted layouts have integrated accessibility, reliability and visibility that let you book a commanding position among your adversaries.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Third Party Integrations and Customizations</h2>
-                <p>We are a web development company that ensures your standalone performance amongst the competitors existing out there. We expertise in delivering profound development solutions to clients that are backed up by robust technology stack, API development, and integration. Moreover, you can also discover skilled web developers that can create web API’s, Custom Data Connectors, and middleware for securely integrating the third-party components and modules.</p>
+                <h2>Third-Party Integrations and Customizations</h2>
+                <p>We provide web development services that would guarantee your autonomous performance among competitors. We are specialists in supplying clients with in-depth approaches to comprehensive software architecture and API design implementations.</p>
             </div>
         </div>
     </div>
@@ -294,22 +294,22 @@ ecommerce video intro
         <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Protyping & UXD</h2>
-                <p>We are equipped with a highly empowered team and are known as the best web design company. For bringing out the best visual essence out of your products. We master in drawing the raw sketches that can be further transformed into working prototypes and guidelines are required according to the business requirements. We deliver the best and visually stunning websites designs renders functionality and visuality in a true way. </p>
+                <h2>Prototyping & UI/UX</h2>
+                <p>With a highly qualified staff and being considered the most popular web design company in Pakistan, we master in turning rough drawings into working prototypes according to the client's needs. We provide the best and dynamically splendid websites that make accessibility and interactiveness truly possible.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
-                <h2>Upgradation & Migration</h2>
-                <p>We deliver world class services in the niche of migration or upgrade or complete revamp of your software products. We help you to transport all the belongings of your project to the upgraded versions by infusing the indispensable technologies. During such process, we make sure that the core of the business process is not at all disturbed plus at the same time paves the road for the businesses to get through the tough competition. </p>
+                <h2>Up-gradation & Migration</h2>
+                <p>In the domain of conversion or redesign and update, we have a world-class support for your business applications. We help you move all aspects of your plan into upgraded versions by infusing critical technology. We ensure that the core business system is not interrupted at all and open the way to perform strongly.</p>
             </div>
         </div>
          <div class="col-md-4">
             <div class="web-services">
                 <img src="{{ asset('img/serv-icon/java.png')}}" class="web" alt="Java">
                 <h2>Technology Consultancy</h2>
-                <p>With so many technologies existing nowadays, it is becoming really very toil to figure out the technology that will be suitable for your projects and ventures. Thus, understanding your concerns, we have charted a completely new technology stack for your next web development project defining a whole new set of opportunities that open with it.</p>
+                <p>With the increasing rate of technological advancements, it has become difficult to find software ideal for your ventures. In order to clarify your needs, our experts will make sure that they outline a whole new range of possibilities for your web-development project.</p>
             </div>
         </div>
     </div>
@@ -449,7 +449,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Online Marketplaces & Portals</h2>
                 <hr>
-                <p>Undeniably, developing a sound and a robust online marketplace requires a lot of expertise and that you will discover in the team of Dev Technosys. We master in developing the sophisticated online marketplace that is equipped with amicable features and showcases distinctive various business backdrops given the vendors, shops, brands, person onto a singular platform.</p>
+                <p>We create an innovative and friendly online marketplace that offers different business perspectives to sellers, stores, products, and people on a unique platform. Our great knowledge and skills do wonders in creating a solid digital platform.</p>
                     
             </div>
         </div>
@@ -457,7 +457,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Accounting Apps</h2>
                 <hr>
-                <p>We engineer remarkable and performance-oriented Accounting Apps that help you with the accurate and to the point calculations thus adding extra power to your business operations. At Dev Technosys You will discover the highest range of custom design and development services that can easily resonate with your business needs. Our services will allow you to get more edge over your financial data and allows you to access it from any centralized location.</p>
+                <p>MavenUp Creatives offers maximum range of special development facilities that fit your business needs. We build outstanding accounting apps that assist you in the precise and timely measurement of your expenses, providing additional strength to your venture. Our software can give you more control over your financial details from any centralized location.</p>
                     
             </div>
         </div>
@@ -465,7 +465,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>E-Commerce Websites</h2>
                 <hr>
-                <p>We are highly equipped in the domains of Custom website Development and delivers remarkable eCommerce websites that aid your businesses to outperform in this hyper-competitive market place. We cater to the businesses by developing advanced features and delivers high functionality to your user base. Moreover, you can discover the developers that can scale, manage and secure your website thus augmenting your ROI.</p>
+                <p>We assist companies with highly compatible user base as we can scale, maintain and protect your website to maximize your annual return. We are well-trained and endorse outstanding e-commerce sites that help your company to surpass in this ultra-competitive global market.</p>
                     
             </div>
         </div>
@@ -475,7 +475,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Custom Business Apps</h2>
                 <hr>
-                <p>We undertake the web development process that helps you to hit upon the right needed functionality and seamlessness that you look into your business operations. We help you enhance your employee productivity and allow you to control, monitor and centralize all your business operations for anywhere in the world.</p>
+                <p>We will assist you in improving your workforce productivity and efficiency in controlling, monitoring and consolidating all your business activities in Pakistan or worldwide. Our experts will administer the process of web development in a way that makes you achieve the correct functionality and visibility required for your business activities.</p>
                     
             </div>
         </div>
@@ -483,7 +483,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>CRM Systems</h2>
                 <hr>
-                <p>We sophisticated CRM System, that exactly resonates with the industrial needs and requirements prevailing in the modern culture. Undeniably, managing a wide customer base is really toil until it is answered with something technology-enabled. Here, the role of CRM Systems cannot be missed as they allow you to handle business information, sales, marketing & customer support.</p>
+                <p>We have a powerful CRM framework, specifically in line with the consumer demands of a modern society. Managing a large client base without addressing something technologically-compatible, is greatly difficult. In this sense, the CRM Systems' role cannot be disregarded, because it enables you to handle the business development information.</p>
                     
             </div>
         </div>
@@ -491,7 +491,7 @@ ecommerce video intro
             <div class="vartical">
                 <h2>Social Networking Apps</h2>
                 <hr>
-                <p>Discover the most secured, embellished and feature-rich solutions by the aid of our power-packed custom web development services. At Dev Technosys, we deliver applications that are endowed with high-end functionality and are equipped with a sense of security and scalability.</p>
+                <p>MavenUp creatives furnish strong-end and outfitted applications with a sense of safety and usability. You can find the safest and most comprehensive solutions with our powerful custom web development services.</p>
                     
             </div>
         </div>
